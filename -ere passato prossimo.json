@@ -1,0 +1,3513 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (vendere) la mia vecchia macchina.",
+        "answer": "ho venduto",
+        "translation": "I sold my old car.",
+        "audio": "1_Io_ho_venduto_la_mia_vecchia_macchina.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Noi {input} (accendere) il camino ieri sera.",
+        "answer": "abbiamo acceso",
+        "translation": "We lit the fireplace last night.",
+        "audio": "2_Noi_abbiamo_acceso_il_camino_ieri_sera.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Tu {input} (perdere) le chiavi della macchina.",
+        "answer": "hai perso",
+        "translation": "You lost the car keys.",
+        "audio": "3_Tu_hai_perso_le_chiavi_della_macchina.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Loro {input} (mettere) i libri sul tavolo.",
+        "answer": "hanno messo",
+        "translation": "They put the books on the table.",
+        "audio": "4_Loro_hanno_messo_i_libri_sul_tavolo.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Tu {input} (vedere) il nuovo film al cinema.",
+        "answer": "hai visto",
+        "translation": "You saw the new movie at the cinema.",
+        "audio": "5_Tu_hai_visto_il_nuovo_film_al_cinema.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Noi {input} (prendere) il treno per Roma.",
+        "answer": "abbiamo preso",
+        "translation": "We took the train to Rome.",
+        "audio": "6_Noi_abbiamo_preso_il_treno_per_Roma.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Lui {input} (rispondere) a tutte le domande dell'insegnante.",
+        "answer": "ha risposto",
+        "translation": "He answered all the teacher's questions.",
+        "audio": "7_Lui_ha_risposto_a_tutte_le_domande_dell_insegnante.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Voi {input} (leggere) il libro per l'esame.",
+        "answer": "avete letto",
+        "translation": "You all read the book for the exam.",
+        "audio": "8_Voi_avete_letto_il_libro_per_l_esame.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Io {input} (chiedere) aiuto al professore.",
+        "answer": "ho chiesto",
+        "translation": "I asked the professor for help.",
+        "audio": "9_Io_ho_chiesto_aiuto_al_professore.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Loro {input} (vivere) in Italia per dieci anni.",
+        "answer": "hanno vissuto",
+        "translation": "They lived in Italy for ten years.",
+        "audio": "10_Loro_hanno_vissuto_in_Italia_per_dieci_anni.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Lui {input} (accendere) le luci quando è entrato.",
+        "answer": "ha acceso",
+        "translation": "He turned on the lights when he entered.",
+        "audio": "11_Lui_ha_acceso_le_luci_quando_è_entrato.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Noi {input} (discutere) il progetto con il team.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed the project with the team.",
+        "audio": "12_Noi_abbiamo_discusso_il_progetto_con_il_team.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Tu {input} (scrivere) una lettera a tua madre.",
+        "answer": "hai scritto",
+        "translation": "You wrote a letter to your mother.",
+        "audio": "13_Tu_hai_scritto_una_lettera_a_tua_madre.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Loro {input} (bere) tutto il vino.",
+        "answer": "hanno bevuto",
+        "translation": "They drank all the wine.",
+        "audio": "14_Loro_hanno_bevuto_tutto_il_vino.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Noi {input} (chiudere) la porta a chiave.",
+        "answer": "abbiamo chiuso",
+        "translation": "We locked the door.",
+        "audio": "15_Noi_abbiamo_chiuso_la_porta_a_chiave.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Io {input} (correre) tre chilometri questa mattina.",
+        "answer": "ho corso",
+        "translation": "I ran three kilometers this morning.",
+        "audio": "16_Io_ho_corso_tre_chilometri_questa_mattina.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Tu {input} (piangere) durante il film.",
+        "answer": "hai pianto",
+        "translation": "You cried during the movie.",
+        "audio": "17_Tu_hai_pianto_durante_il_film.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Loro {input} (ridere) alle sue battute.",
+        "answer": "hanno riso",
+        "translation": "They laughed at his jokes.",
+        "audio": "18_Loro_hanno_riso_alle_sue_battute.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Voi {input} (credere) a quella storia.",
+        "answer": "avete creduto",
+        "translation": "You all believed that story.",
+        "audio": "19_Voi_avete_creduto_a_quella_storia.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Io {input} (perdere) il portafoglio in treno.",
+        "answer": "ho perduto",
+        "translation": "I lost my wallet on the train.",
+        "audio": "20_Io_ho_perduto_il_portafoglio_in_treno.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Noi {input} (accendere) la televisione per vedere il notiziario.",
+        "answer": "abbiamo acceso",
+        "translation": "We turned on the television to watch the news.",
+        "audio": "21_Noi_abbiamo_acceso_la_televisione_per_vedere_il_notiziario.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Tu {input} (chiedere) il conto al cameriere.",
+        "answer": "hai chiesto",
+        "translation": "You asked the waiter for the bill.",
+        "audio": "22_Tu_hai_chiesto_il_conto_al_cameriere.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Loro {input} (vivere) a Milano per molti anni.",
+        "answer": "hanno vissuto",
+        "translation": "They lived in Milan for many years.",
+        "audio": "23_Loro_hanno_vissuto_a_Milano_per_molti_anni.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Lui {input} (prendere) l'autobus per andare a scuola.",
+        "answer": "ha preso",
+        "translation": "He took the bus to go to school.",
+        "audio": "24_Lui_ha_preso_l_autobus_per_andare_a_scuola.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Noi {input} (vendere) tutte le torte al mercato.",
+        "answer": "abbiamo venduto",
+        "translation": "We sold all the cakes at the market.",
+        "audio": "25_Noi_abbiamo_venduto_tutte_le_torte_al_mercato.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Io {input} (credere) alle sue parole.",
+        "answer": "ho creduto",
+        "translation": "I believed his words.",
+        "audio": "26_Io_ho_creduto_alle_sue_parole.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Tu {input} (perdere) il treno delle otto.",
+        "answer": "hai perso",
+        "translation": "You missed the eight o'clock train.",
+        "audio": "27_Tu_hai_perso_il_treno_delle_otto.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Loro {input} (chiedere) informazioni all'ufficio turistico.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for information at the tourist office.",
+        "audio": "28_Loro_hanno_chiesto_informazioni_all_ufficio_turistico.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Noi {input} (mettere) la giacca sull'attaccapanni.",
+        "answer": "abbiamo messo",
+        "translation": "We put the jacket on the coat rack.",
+        "audio": "29_Noi_abbiamo_messo_la_giacca_sull_attaccapanni.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Io {input} (vedere) le foto delle vacanze.",
+        "answer": "ho visto",
+        "translation": "I saw the vacation photos.",
+        "audio": "30_Io_ho_visto_le_foto_delle_vacanze.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Tu {input} (chiudere) tutte le finestre.",
+        "answer": "hai chiuso",
+        "translation": "You closed all the windows.",
+        "audio": "31_Tu_hai_chiuso_tutte_le_finestre.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Loro {input} (leggere) il giornale questa mattina.",
+        "answer": "hanno letto",
+        "translation": "They read the newspaper this morning.",
+        "audio": "32_Loro_hanno_letto_il_giornale_questa_mattina.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Noi {input} (correre) nel parco ieri.",
+        "answer": "abbiamo corso",
+        "translation": "We ran in the park yesterday.",
+        "audio": "33_Noi_abbiamo_corso_nel_parco_ieri.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Tu {input} (ridere) alla barzelletta di Luca.",
+        "answer": "hai riso",
+        "translation": "You laughed at Luca's joke.",
+        "audio": "34_Tu_hai_riso_alla_barzelletta_di_Luca.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Io {input} (discutere) la questione con il direttore.",
+        "answer": "ho discusso",
+        "translation": "I discussed the matter with the director.",
+        "audio": "35_Io_ho_discusso_la_questione_con_il_direttore.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Noi {input} (bere) il caffè al bar.",
+        "answer": "abbiamo bevuto",
+        "translation": "We drank coffee at the bar.",
+        "audio": "36_Noi_abbiamo_bevuto_il_caffè_al_bar.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Lui {input} (accendere) la radio per ascoltare le notizie.",
+        "answer": "ha acceso",
+        "translation": "He turned on the radio to listen to the news.",
+        "audio": "37_Lui_ha_acceso_la_radio_per_ascoltare_le_notizie.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Tu {input} (scrivere) un articolo interessante.",
+        "answer": "hai scritto",
+        "translation": "You wrote an interesting article.",
+        "audio": "38_Tu_hai_scritto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Loro {input} (perdere) il controllo della macchina.",
+        "answer": "hanno perso",
+        "translation": "They lost control of the car.",
+        "audio": "39_Loro_hanno_perso_il_controllo_della_macchina.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Noi {input} (vivere) un'esperienza indimenticabile.",
+        "answer": "abbiamo vissuto",
+        "translation": "We had an unforgettable experience.",
+        "audio": "40_Noi_abbiamo_vissuto_un_esperienza_indimenticabile.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Io {input} (rispondere) al tuo messaggio.",
+        "answer": "ho risposto",
+        "translation": "I replied to your message.",
+        "audio": "41_Io_ho_risposto_al_tuo_messaggio.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Tu {input} (correre) una maratona.",
+        "answer": "hai corso",
+        "translation": "You ran a marathon.",
+        "audio": "42_Tu_hai_corso_una_maratona.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Loro {input} (chiudere) il negozio presto.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the store early.",
+        "audio": "43_Loro_hanno_chiuso_il_negozio_presto.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Noi {input} (discutere) il nuovo piano.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed the new plan.",
+        "audio": "44_Noi_abbiamo_discusso_il_nuovo_piano.mp3"
+    },
+    {
+        "id": 45,
+        "prompt": "Tu {input} (accendere) il computer.",
+        "answer": "hai acceso",
+        "translation": "You turned on the computer.",
+        "audio": "45_Tu_hai_acceso_il_computer.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Io {input} (leggere) un romanzo avvincente.",
+        "answer": "ho letto",
+        "translation": "I read a gripping novel.",
+        "audio": "46_Io_ho_letto_un_romanzo_avvincente.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Tu {input} (prendere) un libro dalla libreria.",
+        "answer": "hai preso",
+        "translation": "You took a book from the library.",
+        "audio": "47_Tu_hai_preso_un_libro_dalla_libreria.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Loro {input} (scrivere) una canzone insieme.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a song together.",
+        "audio": "48_Loro_hanno_scritto_una_canzone_insieme.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Noi {input} (mettere) la tavola per la cena.",
+        "answer": "abbiamo messo",
+        "translation": "We set the table for dinner.",
+        "audio": "49_Noi_abbiamo_messo_la_tavola_per_la_cena.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Tu {input} (vedere) il tramonto sulla spiaggia.",
+        "answer": "hai visto",
+        "translation": "You saw the sunset on the beach.",
+        "audio": "50_Tu_hai_visto_il_tramonto_sulla_spiaggia.mp3"
+    },
+
+    {
+        "id": 51,
+        "prompt": "Noi {input} (chiudere) il negozio alle otto.",
+        "answer": "abbiamo chiuso",
+        "translation": "We closed the store at eight.",
+        "audio": "51_Noi_abbiamo_chiuso_il_negozio_alle_otto.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Tu {input} (credere) alla sua storia.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her story.",
+        "audio": "52_Tu_hai_creduto_alla_sua_storia.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Io {input} (mettere) le chiavi sul tavolo.",
+        "answer": "ho messo",
+        "translation": "I put the keys on the table.",
+        "audio": "53_Io_ho_messo_le_chiavi_sul_tavolo.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Loro {input} (correre) lungo la spiaggia.",
+        "answer": "hanno corso",
+        "translation": "They ran along the beach.",
+        "audio": "54_Loro_hanno_corso_lungo_la_spiaggia.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Noi {input} (discutere) di politica per ore.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed politics for hours.",
+        "audio": "55_Noi_abbiamo_discusso_di_politica_per_ore.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Tu {input} (scrivere) una lettera d'amore.",
+        "answer": "hai scritto",
+        "translation": "You wrote a love letter.",
+        "audio": "56_Tu_hai_scritto_una_lettera_d_amore.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Io {input} (vendere) tutti i miei libri usati.",
+        "answer": "ho venduto",
+        "translation": "I sold all my used books.",
+        "audio": "57_Io_ho_venduto_tutti_i_miei_libri_usati.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Loro {input} (leggere) il manifesto in piazza.",
+        "answer": "hanno letto",
+        "translation": "They read the poster in the square.",
+        "audio": "58_Loro_hanno_letto_il_manifesto_in_piazza.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Noi {input} (prendere) una decisione importante.",
+        "answer": "abbiamo preso",
+        "translation": "We made an important decision.",
+        "audio": "59_Noi_abbiamo_preso_una_decisione_importante.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Tu {input} (accendere) le luci del giardino.",
+        "answer": "hai acceso",
+        "translation": "You turned on the garden lights.",
+        "audio": "60_Tu_hai_acceso_le_luci_del_giardino.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Io {input} (credere) in te fin dall'inizio.",
+        "answer": "ho creduto",
+        "translation": "I believed in you from the beginning.",
+        "audio": "61_Io_ho_creduto_in_te_fin_dall_inizio.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Loro {input} (chiedere) il permesso di partire.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for permission to leave.",
+        "audio": "62_Loro_hanno_chiesto_il_permesso_di_partire.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Noi {input} (perdere) la strada nel bosco.",
+        "answer": "abbiamo perso",
+        "translation": "We lost our way in the woods.",
+        "audio": "63_Noi_abbiamo_perso_la_strada_nel_bosco.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Tu {input} (vedere) il documentario alla TV.",
+        "answer": "hai visto",
+        "translation": "You watched the documentary on TV.",
+        "audio": "64_Tu_hai_visto_il_documentario_alla_TV.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Io {input} (discutere) di affari con il capo.",
+        "answer": "ho discusso",
+        "translation": "I discussed business with the boss.",
+        "audio": "65_Io_ho_discusso_di_affari_con_il_capo.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Loro {input} (vivere) in Francia per un anno.",
+        "answer": "hanno vissuto",
+        "translation": "They lived in France for a year.",
+        "audio": "66_Loro_hanno_vissuto_in_Francia_per_un_anno.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Noi {input} (leggere) il messaggio sul telefono.",
+        "answer": "abbiamo letto",
+        "translation": "We read the message on the phone.",
+        "audio": "67_Noi_abbiamo_letto_il_messaggio_sul_telefono.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Tu {input} (perdere) il biglietto del treno.",
+        "answer": "hai perso",
+        "translation": "You lost the train ticket.",
+        "audio": "68_Tu_hai_perso_il_biglietto_del_treno.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Io {input} (mettere) il libro nello zaino.",
+        "answer": "ho messo",
+        "translation": "I put the book in the backpack.",
+        "audio": "69_Io_ho_messo_il_libro_nello_zaino.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Loro {input} (correre) una maratona insieme.",
+        "answer": "hanno corso",
+        "translation": "They ran a marathon together.",
+        "audio": "70_Loro_hanno_corso_una_maratona_insieme.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Noi {input} (chiedere) informazioni all'ufficio.",
+        "answer": "abbiamo chiesto",
+        "translation": "We asked for information at the office.",
+        "audio": "71_Noi_abbiamo_chiesto_informazioni_all_ufficio.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Tu {input} (accendere) la candela profumata.",
+        "answer": "hai acceso",
+        "translation": "You lit the scented candle.",
+        "audio": "72_Tu_hai_acceso_la_candela_profumata.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Io {input} (credere) alle tue promesse.",
+        "answer": "ho creduto",
+        "translation": "I believed your promises.",
+        "audio": "73_Io_ho_creduto_alle_tue_promesse.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Loro {input} (scrivere) una lettera di reclamo.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a complaint letter.",
+        "audio": "74_Loro_hanno_scritto_una_lettera_di_reclamo.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Noi {input} (vivere) un sogno meraviglioso.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a wonderful dream.",
+        "audio": "75_Noi_abbiamo_vissuto_un_sogno_meraviglioso.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Tu {input} (discutere) con il vicino di casa.",
+        "answer": "hai discusso",
+        "translation": "You argued with the neighbor.",
+        "audio": "76_Tu_hai_discusso_con_il_vicino_di_casa.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Io {input} (leggere) il tuo rapporto con interesse.",
+        "answer": "ho letto",
+        "translation": "I read your report with interest.",
+        "audio": "77_Io_ho_letto_il_tuo_rapporto_con_interesse.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Loro {input} (prendere) il treno delle sei.",
+        "answer": "hanno preso",
+        "translation": "They took the six o'clock train.",
+        "audio": "78_Loro_hanno_preso_il_treno_delle_sei.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Noi {input} (mettere) le sedie in giardino.",
+        "answer": "abbiamo messo",
+        "translation": "We put the chairs in the garden.",
+        "audio": "79_Noi_abbiamo_messo_le_sedie_in_giardino.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Tu {input} (credere) al miracolo.",
+        "answer": "hai creduto",
+        "translation": "You believed in the miracle.",
+        "audio": "80_Tu_hai_creduto_al_miracolo.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Io {input} (perdere) il portafoglio al mercato.",
+        "answer": "ho perso",
+        "translation": "I lost my wallet at the market.",
+        "audio": "81_Io_ho_perso_il_portafoglio_al_mercato.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Loro {input} (chiudere) la porta dietro di sé.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the door behind them.",
+        "audio": "82_Loro_hanno_chiuso_la_porta_dietro_di_sé.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Noi {input} (discutere) di filosofia tutta la notte.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed philosophy all night.",
+        "audio": "83_Noi_abbiamo_discusso_di_filosofia_tutta_la_notte.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Tu {input} (scrivere) un saggio brillante.",
+        "answer": "hai scritto",
+        "translation": "You wrote a brilliant essay.",
+        "audio": "84_Tu_hai_scritto_un_saggio_brillante.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Io {input} (vendere) il mio vecchio computer.",
+        "answer": "ho venduto",
+        "translation": "I sold my old computer.",
+        "audio": "85_Io_ho_venduto_il_mio_vecchio_computer.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Loro {input} (leggere) la lista della spesa.",
+        "answer": "hanno letto",
+        "translation": "They read the shopping list.",
+        "audio": "86_Loro_hanno_letto_la_lista_della_spesa.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Noi {input} (prendere) il taxi per l'aeroporto.",
+        "answer": "abbiamo preso",
+        "translation": "We took the taxi to the airport.",
+        "audio": "87_Noi_abbiamo_preso_il_taxi_per_l_aeroporto.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Tu {input} (accendere) il forno per la pizza.",
+        "answer": "hai acceso",
+        "translation": "You turned on the oven for the pizza.",
+        "audio": "88_Tu_hai_acceso_il_forno_per_la_pizza.mp3"
+    },
+    {
+        "id": 89,
+        "prompt": "Io {input} (credere) nella tua innocenza.",
+        "answer": "ho creduto",
+        "translation": "I believed in your innocence.",
+        "audio": "89_Io_ho_creduto_nella_tua_innocenza.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Loro {input} (correre) sotto la pioggia.",
+        "answer": "hanno corso",
+        "translation": "They ran in the rain.",
+        "audio": "90_Loro_hanno_corso_sotto_la_pioggia.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Noi {input} (vivere) un'avventura indimenticabile.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived an unforgettable adventure.",
+        "audio": "91_Noi_abbiamo_vissuto_un_avventura_indimenticabile.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Tu {input} (discutere) con la tua sorella maggiore.",
+        "answer": "hai discusso",
+        "translation": "You argued with your older sister.",
+        "audio": "92_Tu_hai_discusso_con_la_tua_sorella_maggiore.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Io {input} (leggere) il manuale di istruzioni.",
+        "answer": "ho letto",
+        "translation": "I read the instruction manual.",
+        "audio": "93_Io_ho_letto_il_manual_di_istruzioni.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Loro {input} (chiedere) di partecipare al progetto.",
+        "answer": "hanno chiesto",
+        "translation": "They asked to participate in the project.",
+        "audio": "94_Loro_hanno_chiesto_di_partecipare_al_progetto.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Noi {input} (mettere) i fiori nel vaso.",
+        "answer": "abbiamo messo",
+        "translation": "We put the flowers in the vase.",
+        "audio": "95_Noi_abbiamo_messo_i_fiori_nel_vaso.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Tu {input} (perdere) l'ombrello al ristorante.",
+        "answer": "hai perso",
+        "translation": "You lost the umbrella at the restaurant.",
+        "audio": "96_Tu_hai_perso_l_ombrello_al_ristorante.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Io {input} (accendere) il motore della macchina.",
+        "answer": "ho acceso",
+        "translation": "I started the car engine.",
+        "audio": "97_Io_ho_acceso_il_motore_della_macchina.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Loro {input} (scrivere) un articolo per il giornale.",
+        "answer": "hanno scritto",
+        "translation": "They wrote an article for the newspaper.",
+        "audio": "98_Loro_hanno_scritto_un_articolo_per_il_giornale.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Noi {input} (vivere) in una piccola città.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in a small town.",
+        "audio": "99_Noi_abbiamo_vissuto_in_una_piccola_città.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Tu {input} (credere) alle leggende locali.",
+        "answer": "hai creduto",
+        "translation": "You believed in local legends.",
+        "audio": "100_Tu_hai_creduto_alle_leggende_locali.mp3"
+    },
+
+    {
+        "id": 101,
+        "prompt": "Io {input} (vendere) il mio vecchio cellulare.",
+        "answer": "ho venduto",
+        "translation": "I sold my old cell phone.",
+        "audio": "101_Io_ho_venduto_il_mio_vecchio_cellulare.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Loro {input} (chiedere) un consiglio al medico.",
+        "answer": "hanno chiesto",
+        "translation": "They asked the doctor for advice.",
+        "audio": "102_Loro_hanno_chiesto_un_consiglio_al_medico.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Noi {input} (prendere) un taxi per tornare a casa.",
+        "answer": "abbiamo preso",
+        "translation": "We took a taxi to go home.",
+        "audio": "103_Noi_abbiamo_preso_un_taxi_per_tornare_a_casa.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Tu {input} (vedere) il quadro al museo.",
+        "answer": "hai visto",
+        "translation": "You saw the painting at the museum.",
+        "audio": "104_Tu_hai_visto_il_quadro_al_museo.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Io {input} (correre) per prendere l'autobus.",
+        "answer": "ho corso",
+        "translation": "I ran to catch the bus.",
+        "audio": "105_Io_ho_corso_per_prendere_l_autobus.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Loro {input} (vivere) in una villa storica.",
+        "answer": "hanno vissuto",
+        "translation": "They lived in a historic villa.",
+        "audio": "106_Loro_hanno_vissuto_in_una_villa_storica.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Noi {input} (leggere) l'intero capitolo.",
+        "answer": "abbiamo letto",
+        "translation": "We read the entire chapter.",
+        "audio": "107_Noi_abbiamo_letto_l_intero_capitolo.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Tu {input} (perdere) la coincidenza per il volo.",
+        "answer": "hai perso",
+        "translation": "You missed the connecting flight.",
+        "audio": "108_Tu_hai_perso_la_coincidenza_per_il_volo.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Io {input} (mettere) il latte in frigorifero.",
+        "answer": "ho messo",
+        "translation": "I put the milk in the fridge.",
+        "audio": "109_Io_ho_messo_il_latte_in_frigorifero.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Loro {input} (correre) per arrivare in tempo.",
+        "answer": "hanno corso",
+        "translation": "They ran to arrive on time.",
+        "audio": "110_Loro_hanno_corso_per_arrivare_in_tempo.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Noi {input} (chiedere) un tavolo vicino alla finestra.",
+        "answer": "abbiamo chiesto",
+        "translation": "We asked for a table near the window.",
+        "audio": "111_Noi_abbiamo_chiesto_un_tavolo_vicino_alla_finestra.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Tu {input} (accendere) il riscaldamento.",
+        "answer": "hai acceso",
+        "translation": "You turned on the heating.",
+        "audio": "112_Tu_hai_acceso_il_riscaldamento.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Io {input} (credere) alle parole del testimone.",
+        "answer": "ho creduto",
+        "translation": "I believed the witness's words.",
+        "audio": "113_Io_ho_creduto_alle_parole_del_testimone.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Loro {input} (scrivere) una canzone famosa.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a famous song.",
+        "audio": "114_Loro_hanno_scritto_una_canzone_famosa.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Noi {input} (vivere) in pace per molti anni.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in peace for many years.",
+        "audio": "115_Noi_abbiamo_vissuto_in_pace_per_molti_anni.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Tu {input} (discutere) del progetto con il team.",
+        "answer": "hai discusso",
+        "translation": "You discussed the project with the team.",
+        "audio": "116_Tu_hai_discusso_del_progetto_con_il_team.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Io {input} (leggere) un articolo interessante.",
+        "answer": "ho letto",
+        "translation": "I read an interesting article.",
+        "audio": "117_Io_ho_letto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Loro {input} (chiudere) la finestra per il freddo.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the window because of the cold.",
+        "audio": "118_Loro_hanno_chiuso_la_finestra_per_il_freddo.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Noi {input} (prendere) la barca per l'isola.",
+        "answer": "abbiamo preso",
+        "translation": "We took the boat to the island.",
+        "audio": "119_Noi_abbiamo_preso_la_barca_per_l_isola.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Tu {input} (accendere) il ventilatore.",
+        "answer": "hai acceso",
+        "translation": "You turned on the fan.",
+        "audio": "120_Tu_hai_acceso_il_ventilatore.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Io {input} (credere) nella sua onestà.",
+        "answer": "ho creduto",
+        "translation": "I believed in his/her honesty.",
+        "audio": "121_Io_ho_creduto_nella_sua_onestà.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Loro {input} (correre) fino alla stazione.",
+        "answer": "hanno corso",
+        "translation": "They ran to the station.",
+        "audio": "122_Loro_hanno_corso_fino_alla_stazione.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Noi {input} (leggere) le istruzioni con attenzione.",
+        "answer": "abbiamo letto",
+        "translation": "We read the instructions carefully.",
+        "audio": "123_Noi_abbiamo_letto_le_istruzioni_con_attenzione.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Tu {input} (perdere) il cappello nel parco.",
+        "answer": "hai perso",
+        "translation": "You lost the hat in the park.",
+        "audio": "124_Tu_hai_perso_il_cappello_nel_parco.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Io {input} (mettere) i vestiti nell'armadio.",
+        "answer": "ho messo",
+        "translation": "I put the clothes in the wardrobe.",
+        "audio": "125_Io_ho_messo_i_vestiti_nell_armadio.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Loro {input} (chiedere) di partecipare alla riunione.",
+        "answer": "hanno chiesto",
+        "translation": "They asked to participate in the meeting.",
+        "audio": "126_Loro_hanno_chiesto_di_partecipare_alla_riunione.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Noi {input} (correre) per evitare la pioggia.",
+        "answer": "abbiamo corso",
+        "translation": "We ran to avoid the rain.",
+        "audio": "127_Noi_abbiamo_corso_per_evitare_la_pioggia.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Tu {input} (scrivere) una relazione dettagliata.",
+        "answer": "hai scritto",
+        "translation": "You wrote a detailed report.",
+        "audio": "128_Tu_hai_scritto_una_relazione_dettagliata.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Io {input} (vendere) tutti i miei vecchi dischi.",
+        "answer": "ho venduto",
+        "translation": "I sold all my old records.",
+        "audio": "129_Io_ho_venduto_tutti_i_miei_vecchi_dischi.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Loro {input} (leggere) la poesia ad alta voce.",
+        "answer": "hanno letto",
+        "translation": "They read the poem out loud.",
+        "audio": "130_Loro_hanno_letto_la_poesia_ad_alta_voce.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Noi {input} (prendere) il sole in spiaggia.",
+        "answer": "abbiamo preso",
+        "translation": "We sunbathed on the beach.",
+        "audio": "131_Noi_abbiamo_preso_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Tu {input} (accendere) la torcia.",
+        "answer": "hai acceso",
+        "translation": "You turned on the flashlight.",
+        "audio": "132_Tu_hai_acceso_la_torcia.mp3"
+    },
+    {
+        "id": 133,
+        "prompt": "Io {input} (credere) nel suo talento.",
+        "answer": "ho creduto",
+        "translation": "I believed in his/her talent.",
+        "audio": "133_Io_ho_creduto_nel_suo_talento.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Loro {input} (chiudere) il cancello del giardino.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the garden gate.",
+        "audio": "134_Loro_hanno_chiuso_il_cancello_del_giardino.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Noi {input} (vivere) un momento magico.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a magical moment.",
+        "audio": "135_Noi_abbiamo_vissuto_un_momento_magico.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Tu {input} (discutere) con il tuo insegnante.",
+        "answer": "hai discusso",
+        "translation": "You argued with your teacher.",
+        "audio": "136_Tu_hai_discusso_con_il_tuo_insegnante.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Io {input} (leggere) il messaggio sul telefono.",
+        "answer": "ho letto",
+        "translation": "I read the message on the phone.",
+        "audio": "137_Io_ho_letto_il_messaggio_sul_telefono.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Loro {input} (chiedere) aiuto ai passanti.",
+        "answer": "hanno chiesto",
+        "translation": "They asked passersby for help.",
+        "audio": "138_Loro_hanno_chiesto_aiuto_ai_passanti.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Noi {input} (mettere) il vino in cantina.",
+        "answer": "abbiamo messo",
+        "translation": "We put the wine in the cellar.",
+        "audio": "139_Noi_abbiamo_messo_il_vino_in_cantina.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Tu {input} (perdere) il portafoglio al bar.",
+        "answer": "hai perso",
+        "translation": "You lost the wallet at the bar.",
+        "audio": "140_Tu_hai_perso_il_portafoglio_al_bar.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Io {input} (accendere) la televisione per vedere il telegiornale.",
+        "answer": "ho acceso",
+        "translation": "I turned on the TV to watch the news.",
+        "audio": "141_Io_ho_acceso_la_televisione_per_vedere_il_telegiornale.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Loro {input} (scrivere) una recensione positiva.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a positive review.",
+        "audio": "142_Loro_hanno_scritto_una_recensione_positiva.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Noi {input} (vivere) insieme per un anno.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived together for a year.",
+        "audio": "143_Noi_abbiamo_vissuto_insieme_per_un_anno.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Tu {input} (credere) alle sue bugie.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her lies.",
+        "audio": "144_Tu_hai_creduto_alle_sue_bugie.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Io {input} (correre) nel parco con il cane.",
+        "answer": "ho corso",
+        "translation": "I ran in the park with the dog.",
+        "audio": "145_Io_ho_corso_nel_parco_con_il_cane.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Loro {input} (leggere) la targa commemorativa.",
+        "answer": "hanno letto",
+        "translation": "They read the commemorative plaque.",
+        "audio": "146_Loro_hanno_letto_la_targa_commemorativa.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Noi {input} (prendere) un caffè al bar.",
+        "answer": "abbiamo preso",
+        "translation": "We had a coffee at the bar.",
+        "audio": "147_Noi_abbiamo_preso_un_caffè_al_bar.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Tu {input} (accendere) la luce del corridoio.",
+        "answer": "hai acceso",
+        "translation": "You turned on the hallway light.",
+        "audio": "148_Tu_hai_acceso_la_luce_del_corridoio.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Io {input} (vendere) il mio scooter usato.",
+        "answer": "ho venduto",
+        "translation": "I sold my used scooter.",
+        "audio": "149_Io_ho_venduto_il_mio_scooter_usato.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Loro {input} (chiudere) il contratto con il cliente.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the contract with the client.",
+        "audio": "150_Loro_hanno_chiuso_il_contratto_con_il_cliente.mp3"
+    },
+
+    {
+        "id": 151,
+        "prompt": "Noi {input} (vivere) una grande avventura.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a great adventure.",
+        "audio": "151_Noi_abbiamo_vissuto_una_grande_avventura.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Tu {input} (discutere) il problema con la famiglia.",
+        "answer": "hai discusso",
+        "translation": "You discussed the problem with the family.",
+        "audio": "152_Tu_hai_discusso_il_problema_con_la_famiglia.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Io {input} (leggere) il tuo messaggio ieri sera.",
+        "answer": "ho letto",
+        "translation": "I read your message last night.",
+        "audio": "153_Io_ho_letto_il_tuo_messaggio_ieri_sera.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Loro {input} (chiedere) un rimborso per il prodotto.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for a refund for the product.",
+        "audio": "154_Loro_hanno_chiesto_un_rimborso_per_il_prodotto.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Noi {input} (mettere) le scarpe vicino alla porta.",
+        "answer": "abbiamo messo",
+        "translation": "We put the shoes near the door.",
+        "audio": "155_Noi_abbiamo_messo_le_scarpe_vicino_alla_porta.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Tu {input} (perdere) la chiave dell'auto.",
+        "answer": "hai perso",
+        "translation": "You lost the car key.",
+        "audio": "156_Tu_hai_perso_la_chiave_dell_auto.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Io {input} (accendere) la lampada da tavolo.",
+        "answer": "ho acceso",
+        "translation": "I turned on the table lamp.",
+        "audio": "157_Io_ho_acceso_la_lampada_da_tavolo.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Loro {input} (scrivere) un libro insieme.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a book together.",
+        "audio": "158_Loro_hanno_scritto_un_libro_insieme.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Noi {input} (vivere) in una casa sulla spiaggia.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in a house on the beach.",
+        "audio": "159_Noi_abbiamo_vissuto_in_una_casa_sulla_spiaggia.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Tu {input} (credere) alla sua storia incredibile.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her incredible story.",
+        "audio": "160_Tu_hai_creduto_alla_sua_storia_incredibile.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Io {input} (chiedere) un permesso speciale al preside.",
+        "answer": "ho chiesto",
+        "translation": "I asked the principal for a special permission.",
+        "audio": "161_Io_ho_chiesto_un_permesso_speciale_al_preside.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Loro {input} (vendere) tutte le loro azioni.",
+        "answer": "hanno venduto",
+        "translation": "They sold all their stocks.",
+        "audio": "162_Loro_hanno_venduto_tutte_le_loro_azioni.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Noi {input} (accendere) le luci di Natale.",
+        "answer": "abbiamo acceso",
+        "translation": "We turned on the Christmas lights.",
+        "audio": "163_Noi_abbiamo_acceso_le_luci_di_Natale.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Tu {input} (correre) fino alla cima della collina.",
+        "answer": "hai corso",
+        "translation": "You ran to the top of the hill.",
+        "audio": "164_Tu_hai_corso_fino_alla_cima_della_collina.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Io {input} (mettere) le scarpe nel ripostiglio.",
+        "answer": "ho messo",
+        "translation": "I put the shoes in the storage room.",
+        "audio": "165_Io_ho_messo_le_scarpe_nel_ripostiglio.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Loro {input} (leggere) l'intervista sul giornale.",
+        "answer": "hanno letto",
+        "translation": "They read the interview in the newspaper.",
+        "audio": "166_Loro_hanno_letto_l_intervista_sul_giornale.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Noi {input} (prendere) un taxi al mattino.",
+        "answer": "abbiamo preso",
+        "translation": "We took a taxi in the morning.",
+        "audio": "167_Noi_abbiamo_preso_un_taxi_al_mattino.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Tu {input} (accendere) la candela per l'atmosfera.",
+        "answer": "hai acceso",
+        "translation": "You lit the candle for the atmosphere.",
+        "audio": "168_Tu_hai_acceso_la_candela_per_l_atmosfera.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Io {input} (credere) alla sua versione dei fatti.",
+        "answer": "ho creduto",
+        "translation": "I believed his/her version of the events.",
+        "audio": "169_Io_ho_creduto_alla_sua_versione_dei_fatti.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Loro {input} (chiudere) il portone del garage.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the garage door.",
+        "audio": "170_Loro_hanno_chiuso_il_portone_del_garage.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Noi {input} (vivere) un'esperienza unica.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a unique experience.",
+        "audio": "171_Noi_abbiamo_vissuto_un_esperienza_unica.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Tu {input} (discutere) con il tuo capo ieri.",
+        "answer": "hai discusso",
+        "translation": "You argued with your boss yesterday.",
+        "audio": "172_Tu_hai_discusso_con_il_tuo_capo_ieri.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Io {input} (leggere) il romanzo in una settimana.",
+        "answer": "ho letto",
+        "translation": "I read the novel in a week.",
+        "audio": "173_Io_ho_letto_il_romanzo_in_una_settimana.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Loro {input} (chiedere) una proroga per il progetto.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for an extension for the project.",
+        "audio": "174_Loro_hanno_chiesto_una_proroga_per_il_progetto.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Noi {input} (mettere) la macchina nel parcheggio.",
+        "answer": "abbiamo messo",
+        "translation": "We parked the car in the parking lot.",
+        "audio": "175_Noi_abbiamo_messo_la_macchina_nel_parcheggio.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Tu {input} (perdere) l'ultimo treno della giornata.",
+        "answer": "hai perso",
+        "translation": "You missed the last train of the day.",
+        "audio": "176_Tu_hai_perso_l_ultimo_treno_della_giornata.mp3"
+    },
+    {
+        "id": 177,
+        "prompt": "Io {input} (accendere) la radio per ascoltare musica.",
+        "answer": "ho acceso",
+        "translation": "I turned on the radio to listen to music.",
+        "audio": "177_Io_ho_acceso_la_radio_per_ascoltare_musica.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Loro {input} (scrivere) un articolo sulla rivista.",
+        "answer": "hanno scritto",
+        "translation": "They wrote an article for the magazine.",
+        "audio": "178_Loro_hanno_scritto_un_articolo_sulla_rivista.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Noi {input} (vivere) in montagna per un mese.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in the mountains for a month.",
+        "audio": "179_Noi_abbiamo_vissuto_in_montagna_per_un_mese.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Tu {input} (credere) ai suoi consigli.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her advice.",
+        "audio": "180_Tu_hai_creduto_ai_suoi_consigli.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Io {input} (correre) alla maratona cittadina.",
+        "answer": "ho corso",
+        "translation": "I ran in the city marathon.",
+        "audio": "181_Io_ho_corso_alla_maratona_cittadina.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Loro {input} (leggere) il libro ai bambini.",
+        "answer": "hanno letto",
+        "translation": "They read the book to the children.",
+        "audio": "182_Loro_hanno_letto_il_libro_ai_bambini.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Noi {input} (prendere) una decisione difficile.",
+        "answer": "abbiamo preso",
+        "translation": "We made a difficult decision.",
+        "audio": "183_Noi_abbiamo_preso_una_decisione_difficile.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Tu {input} (accendere) il camino per scaldarti.",
+        "answer": "hai acceso",
+        "translation": "You lit the fireplace to warm yourself.",
+        "audio": "184_Tu_hai_acceso_il_camino_per_scaldarti.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Io {input} (vendere) il mio vecchio motorino.",
+        "answer": "ho venduto",
+        "translation": "I sold my old moped.",
+        "audio": "185_Io_ho_venduto_il_mio_vecchio_motorino.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Loro {input} (chiudere) il negozio definitivamente.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the store permanently.",
+        "audio": "186_Loro_hanno_chiuso_il_negozio_definitivamente.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Noi {input} (vivere) una grande avventura insieme.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a great adventure together.",
+        "audio": "187_Noi_abbiamo_vissuto_una_grande_avventura_insieme.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Tu {input} (discutere) il contratto con l'avvocato.",
+        "answer": "hai discusso",
+        "translation": "You discussed the contract with the lawyer.",
+        "audio": "188_Tu_hai_discusso_il_contratto_con_l_avvocato.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Io {input} (leggere) il tuo rapporto attentamente.",
+        "answer": "ho letto",
+        "translation": "I read your report carefully.",
+        "audio": "189_Io_ho_letto_il_tuo_rapporto_attentamente.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Loro {input} (chiedere) un appuntamento con il medico.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for an appointment with the doctor.",
+        "audio": "190_Loro_hanno_chiesto_un_appuntamento_con_il_medico.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Noi {input} (mettere) le valigie nel bagagliaio.",
+        "answer": "abbiamo messo",
+        "translation": "We put the suitcases in the trunk.",
+        "audio": "191_Noi_abbiamo_messo_le_valigie_nel_bagagliaio.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Tu {input} (perdere) il tuo anello preferito.",
+        "answer": "hai perso",
+        "translation": "You lost your favorite ring.",
+        "audio": "192_Tu_hai_perso_il_tuo_anello_preferito.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Io {input} (accendere) la luce nella stanza.",
+        "answer": "ho acceso",
+        "translation": "I turned on the light in the room.",
+        "audio": "193_Io_ho_acceso_la_luce_nella_stanza.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Loro {input} (scrivere) un comunicato stampa.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a press release.",
+        "audio": "194_Loro_hanno_scritto_un_comunicato_stampa.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Noi {input} (vivere) in serenità per anni.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in serenity for years.",
+        "audio": "195_Noi_abbiamo_vissuto_in_serenità_per_anni.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Tu {input} (credere) nelle sue promesse.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her promises.",
+        "audio": "196_Tu_hai_creduto_nelle_sue_promesse.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Io {input} (correre) lungo il fiume stamattina.",
+        "answer": "ho corso",
+        "translation": "I ran along the river this morning.",
+        "audio": "197_Io_ho_corso_lungo_il_fiume_stamattina.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Loro {input} (leggere) la lettera con emozione.",
+        "answer": "hanno letto",
+        "translation": "They read the letter with emotion.",
+        "audio": "198_Loro_hanno_letto_la_lettera_con_emozione.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Noi {input} (prendere) un giorno di riposo.",
+        "answer": "abbiamo preso",
+        "translation": "We took a day off.",
+        "audio": "199_Noi_abbiamo_preso_un_giorno_di_riposo.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Tu {input} (accendere) il ventilatore per il caldo.",
+        "answer": "hai acceso",
+        "translation": "You turned on the fan because of the heat.",
+        "audio": "200_Tu_hai_acceso_il_ventilatore_per_il_caldo.mp3"
+    },
+
+    {
+        "id": 201,
+        "prompt": "Io {input} (vendere) la mia collezione di vinili.",
+        "answer": "ho venduto",
+        "translation": "I sold my vinyl collection.",
+        "audio": "201_Io_ho_venduto_la_mia_collezione_di_vinili.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Loro {input} (chiudere) l'accordo con la banca.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the deal with the bank.",
+        "audio": "202_Loro_hanno_chiuso_l_accordo_con_la_banca.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Noi {input} (vivere) un'estate indimenticabile.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived an unforgettable summer.",
+        "audio": "203_Noi_abbiamo_vissuto_un_estate_indimenticabile.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Tu {input} (discutere) il piano con il team.",
+        "answer": "hai discusso",
+        "translation": "You discussed the plan with the team.",
+        "audio": "204_Tu_hai_discusso_il_piano_con_il_team.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Io {input} (leggere) tutte le email arretrate.",
+        "answer": "ho letto",
+        "translation": "I read all the backlogged emails.",
+        "audio": "205_Io_ho_letto_tutte_le_email_arretrate.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Loro {input} (chiedere) di visitare la mostra.",
+        "answer": "hanno chiesto",
+        "translation": "They asked to visit the exhibition.",
+        "audio": "206_Loro_hanno_chiesto_di_visitare_la_mostra.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Noi {input} (mettere) i piatti nella lavastoviglie.",
+        "answer": "abbiamo messo",
+        "translation": "We put the dishes in the dishwasher.",
+        "audio": "207_Noi_abbiamo_messo_i_piatti_nella_lavastoviglie.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Tu {input} (perdere) il treno per pochi minuti.",
+        "answer": "hai perso",
+        "translation": "You missed the train by a few minutes.",
+        "audio": "208_Tu_hai_perso_il_treno_per_pochi_minuti.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Io {input} (accendere) il computer per lavorare.",
+        "answer": "ho acceso",
+        "translation": "I turned on the computer to work.",
+        "audio": "209_Io_ho_acceso_il_computer_per_lavorare.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Loro {input} (scrivere) una lettera di ringraziamento.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a thank-you letter.",
+        "audio": "210_Loro_hanno_scritto_una_lettera_di_ringraziamento.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Noi {input} (prendere) un caffè insieme.",
+        "answer": "abbiamo preso",
+        "translation": "We had a coffee together.",
+        "audio": "211_Noi_abbiamo_preso_un_caffè_insieme.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Tu {input} (accendere) il motore dell'auto.",
+        "answer": "hai acceso",
+        "translation": "You started the car engine.",
+        "audio": "212_Tu_hai_acceso_il_motore_dell_auto.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Io {input} (credere) nelle tue capacità.",
+        "answer": "ho creduto",
+        "translation": "I believed in your abilities.",
+        "audio": "213_Io_ho_creduto_nelle_tue_capacità.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Loro {input} (vivere) in campagna per anni.",
+        "answer": "hanno vissuto",
+        "translation": "They lived in the countryside for years.",
+        "audio": "214_Loro_hanno_vissuto_in_campagna_per_anni.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Noi {input} (discutere) il nuovo progetto.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed the new project.",
+        "audio": "215_Noi_abbiamo_discusso_il_nuovo_progetto.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Tu {input} (leggere) il menu al ristorante.",
+        "answer": "hai letto",
+        "translation": "You read the menu at the restaurant.",
+        "audio": "216_Tu_hai_letto_il_menu_al_ristorante.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Io {input} (chiedere) il prezzo di quel quadro.",
+        "answer": "ho chiesto",
+        "translation": "I asked for the price of that painting.",
+        "audio": "217_Io_ho_chiesto_il_prezzo_di_quel_quadro.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Loro {input} (vendere) la casa rapidamente.",
+        "answer": "hanno venduto",
+        "translation": "They sold the house quickly.",
+        "audio": "218_Loro_hanno_venduto_la_casa_rapidamente.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Noi {input} (accendere) il fuoco nel caminetto.",
+        "answer": "abbiamo acceso",
+        "translation": "We lit the fire in the fireplace.",
+        "audio": "219_Noi_abbiamo_acceso_il_fuoco_nel_caminetto.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Tu {input} (correre) per prendere l'autobus.",
+        "answer": "hai corso",
+        "translation": "You ran to catch the bus.",
+        "audio": "220_Tu_hai_corso_per_prendere_l_autobus.mp3"
+    },
+    {
+        "id": 221,
+        "prompt": "Io {input} (mettere) le chiavi nel cassetto.",
+        "answer": "ho messo",
+        "translation": "I put the keys in the drawer.",
+        "audio": "221_Io_ho_messo_le_chiavi_nel_cassetto.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Loro {input} (leggere) il discorso durante la cerimonia.",
+        "answer": "hanno letto",
+        "translation": "They read the speech during the ceremony.",
+        "audio": "222_Loro_hanno_letto_il_discorso_durante_la_cerimonia.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Noi {input} (prendere) la decisione giusta.",
+        "answer": "abbiamo preso",
+        "translation": "We made the right decision.",
+        "audio": "223_Noi_abbiamo_preso_la_decisione_giusta.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Tu {input} (accendere) la candela profumata.",
+        "answer": "hai acceso",
+        "translation": "You lit the scented candle.",
+        "audio": "224_Tu_hai_acceso_la_candela_profumata.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Io {input} (credere) alle sue parole sincere.",
+        "answer": "ho creduto",
+        "translation": "I believed his/her sincere words.",
+        "audio": "225_Io_ho_creduto_alle_sue_parole_sincere.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Loro {input} (chiudere) la porta del magazzino.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the warehouse door.",
+        "audio": "226_Loro_hanno_chiuso_la_porta_del_magazzino.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Noi {input} (vivere) momenti felici insieme.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived happy moments together.",
+        "audio": "227_Noi_abbiamo_vissuto_momenti_felici_insieme.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Tu {input} (discutere) il problema con il tecnico.",
+        "answer": "hai discusso",
+        "translation": "You discussed the problem with the technician.",
+        "audio": "228_Tu_hai_discusso_il_problema_con_il_tecnico.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Io {input} (leggere) il libro in una notte.",
+        "answer": "ho letto",
+        "translation": "I read the book in one night.",
+        "audio": "229_Io_ho_letto_il_libro_in_una_notte.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Loro {input} (chiedere) l'indirizzo esatto.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for the exact address.",
+        "audio": "230_Loro_hanno_chiesto_l_indirizzo_esatto.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Noi {input} (mettere) il tavolo in salotto.",
+        "answer": "abbiamo messo",
+        "translation": "We put the table in the living room.",
+        "audio": "231_Noi_abbiamo_messo_il_tavolo_in_salotto.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Tu {input} (perdere) il tuo ombrello nuovo.",
+        "answer": "hai perso",
+        "translation": "You lost your new umbrella.",
+        "audio": "232_Tu_hai_perso_il_tuo_ombrello_nuovo.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Io {input} (accendere) il forno per cuocere il pane.",
+        "answer": "ho acceso",
+        "translation": "I turned on the oven to bake the bread.",
+        "audio": "233_Io_ho_acceso_il_forno_per_cuocere_il_pane.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Loro {input} (scrivere) un diario di viaggio.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a travel diary.",
+        "audio": "234_Loro_hanno_scritto_un_diario_di_viaggio.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Noi {input} (vivere) l'avventura della vita.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived the adventure of a lifetime.",
+        "audio": "235_Noi_abbiamo_vissuto_l_avventura_della_vita.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Tu {input} (credere) alla spiegazione del professore.",
+        "answer": "hai creduto",
+        "translation": "You believed the professor's explanation.",
+        "audio": "236_Tu_hai_creduto_alla_spiegazione_del_professore.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Io {input} (correre) per raggiungere il traguardo.",
+        "answer": "ho corso",
+        "translation": "I ran to reach the finish line.",
+        "audio": "237_Io_ho_corso_per_raggiungere_il_traguardo.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Loro {input} (leggere) la poesia con passione.",
+        "answer": "hanno letto",
+        "translation": "They read the poem with passion.",
+        "audio": "238_Loro_hanno_letto_la_poesia_con_passione.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Noi {input} (prendere) un volo per Parigi.",
+        "answer": "abbiamo preso",
+        "translation": "We took a flight to Paris.",
+        "audio": "239_Noi_abbiamo_preso_un_volo_per_Parigi.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Tu {input} (accendere) la lampada da lettura.",
+        "answer": "hai acceso",
+        "translation": "You turned on the reading lamp.",
+        "audio": "240_Tu_hai_acceso_la_lampada_da_lettura.mp3"
+    },
+
+    {
+        "id": 241,
+        "prompt": "Io {input} (vendere) la mia vecchia bicicletta.",
+        "answer": "ho venduto",
+        "translation": "I sold my old bicycle.",
+        "audio": "241_Io_ho_venduto_la_mia_vecchia_bicicletta.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Loro {input} (chiedere) un appuntamento con il direttore.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for an appointment with the director.",
+        "audio": "242_Loro_hanno_chiesto_un_appuntamento_con_il_direttore.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Noi {input} (vivere) un momento emozionante.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived an exciting moment.",
+        "audio": "243_Noi_abbiamo_vissuto_un_momento_emozionante.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Tu {input} (discutere) di sport con gli amici.",
+        "answer": "hai discusso",
+        "translation": "You discussed sports with friends.",
+        "audio": "244_Tu_hai_discusso_di_sport_con_gli_amici.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Io {input} (leggere) il giornale stamattina.",
+        "answer": "ho letto",
+        "translation": "I read the newspaper this morning.",
+        "audio": "245_Io_ho_letto_il_giornale_stamattina.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Loro {input} (chiudere) l'accordo con i fornitori.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the deal with the suppliers.",
+        "audio": "246_Loro_hanno_chiuso_l_accordo_con_i_fornitori.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Noi {input} (mettere) le chiavi sul tavolo.",
+        "answer": "abbiamo messo",
+        "translation": "We put the keys on the table.",
+        "audio": "247_Noi_abbiamo_messo_le_chiavi_sul_tavolo.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Tu {input} (perdere) il tuo zaino a scuola.",
+        "answer": "hai perso",
+        "translation": "You lost your backpack at school.",
+        "audio": "248_Tu_hai_perso_il_tuo_zaino_a_scuola.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Io {input} (accendere) il forno per cuocere la pizza.",
+        "answer": "ho acceso",
+        "translation": "I turned on the oven to bake the pizza.",
+        "audio": "249_Io_ho_acceso_il_forno_per_cuocere_la_pizza.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Loro {input} (scrivere) un messaggio di ringraziamento.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a thank-you message.",
+        "audio": "250_Loro_hanno_scritto_un_messaggio_di_ringraziamento.mp3"
+    },
+    {
+        "id": 251,
+        "prompt": "Io {input} (vendere) il mio vecchio computer portatile.",
+        "answer": "ho venduto",
+        "translation": "I sold my old laptop.",
+        "audio": "251_Io_ho_venduto_il_mio_vecchio_computer_portatile.mp3"
+    },
+    {
+        "id": 252,
+        "prompt": "Loro {input} (chiedere) una spiegazione al professore.",
+        "answer": "hanno chiesto",
+        "translation": "They asked the professor for an explanation.",
+        "audio": "252_Loro_hanno_chiesto_una_spiegazione_al_professore.mp3"
+    },
+    {
+        "id": 253,
+        "prompt": "Noi {input} (accendere) le luci dell'albero di Natale.",
+        "answer": "abbiamo acceso",
+        "translation": "We turned on the Christmas tree lights.",
+        "audio": "253_Noi_abbiamo_acceso_le_luci_dell_albero_di_Natale.mp3"
+    },
+    {
+        "id": 254,
+        "prompt": "Tu {input} (correre) lungo il fiume questa mattina.",
+        "answer": "hai corso",
+        "translation": "You ran along the river this morning.",
+        "audio": "254_Tu_hai_corso_lungo_il_fiume_questa_mattina.mp3"
+    },
+    {
+        "id": 255,
+        "prompt": "Io {input} (mettere) le lenzuola pulite sul letto.",
+        "answer": "ho messo",
+        "translation": "I put the clean sheets on the bed.",
+        "audio": "255_Io_ho_messo_le_lenzuola_pulite_sul_letto.mp3"
+    },
+    {
+        "id": 256,
+        "prompt": "Loro {input} (leggere) il rapporto dell'investigatore.",
+        "answer": "hanno letto",
+        "translation": "They read the investigator's report.",
+        "audio": "256_Loro_hanno_letto_il_rapporto_dell_investigatore.mp3"
+    },
+    {
+        "id": 257,
+        "prompt": "Noi {input} (prendere) l'autobus per andare in centro.",
+        "answer": "abbiamo preso",
+        "translation": "We took the bus to go downtown.",
+        "audio": "257_Noi_abbiamo_preso_l_autobus_per_andare_in_centro.mp3"
+    },
+    {
+        "id": 258,
+        "prompt": "Tu {input} (accendere) la lampada da tavolo.",
+        "answer": "hai acceso",
+        "translation": "You turned on the table lamp.",
+        "audio": "258_Tu_hai_acceso_la_lampada_da_tavolo.mp3"
+    },
+    {
+        "id": 259,
+        "prompt": "Io {input} (credere) alla sua versione della storia.",
+        "answer": "ho creduto",
+        "translation": "I believed his/her version of the story.",
+        "audio": "259_Io_ho_creduto_alla_sua_versione_della_storia.mp3"
+    },
+    {
+        "id": 260,
+        "prompt": "Loro {input} (chiudere) il cancello del parco.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the park gate.",
+        "audio": "260_Loro_hanno_chiuso_il_cancello_del_parco.mp3"
+    },
+    {
+        "id": 261,
+        "prompt": "Noi {input} (vivere) una bellissima esperienza.",
+        "answer": "abbiamo vissuto",
+        "translation": "We had a beautiful experience.",
+        "audio": "261_Noi_abbiamo_vissuto_una_bellissima_esperienza.mp3"
+    },
+    {
+        "id": 262,
+        "prompt": "Tu {input} (discutere) della questione con il consiglio.",
+        "answer": "hai discusso",
+        "translation": "You discussed the issue with the council.",
+        "audio": "262_Tu_hai_discusso_della_questione_con_il_consiglio.mp3"
+    },
+    {
+        "id": 263,
+        "prompt": "Io {input} (leggere) un libro di cucina.",
+        "answer": "ho letto",
+        "translation": "I read a cookbook.",
+        "audio": "263_Io_ho_letto_un_libro_di_cucina.mp3"
+    },
+    {
+        "id": 264,
+        "prompt": "Loro {input} (chiedere) un aiuto economico.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for financial assistance.",
+        "audio": "264_Loro_hanno_chiesto_un_aiuto_economico.mp3"
+    },
+    {
+        "id": 265,
+        "prompt": "Noi {input} (mettere) la tovaglia sul tavolo.",
+        "answer": "abbiamo messo",
+        "translation": "We put the tablecloth on the table.",
+        "audio": "265_Noi_abbiamo_messo_la_tovaglia_sul_tavolo.mp3"
+    },
+    {
+        "id": 266,
+        "prompt": "Tu {input} (perdere) i tuoi occhiali da sole.",
+        "answer": "hai perso",
+        "translation": "You lost your sunglasses.",
+        "audio": "266_Tu_hai_perso_i_tuoi_occhiali_da_sole.mp3"
+    },
+    {
+        "id": 267,
+        "prompt": "Io {input} (accendere) il condizionatore d'aria.",
+        "answer": "ho acceso",
+        "translation": "I turned on the air conditioner.",
+        "audio": "267_Io_ho_acceso_il_condizionatore_d_aria.mp3"
+    },
+    {
+        "id": 268,
+        "prompt": "Loro {input} (scrivere) un romanzo a quattro mani.",
+        "answer": "hanno scritto",
+        "translation": "They co-wrote a novel.",
+        "audio": "268_Loro_hanno_scritto_un_romanzo_a_quattro_mani.mp3"
+    },
+    {
+        "id": 269,
+        "prompt": "Noi {input} (vivere) momenti di gioia.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived moments of joy.",
+        "audio": "269_Noi_abbiamo_vissuto_momenti_di_gioia.mp3"
+    },
+    {
+        "id": 270,
+        "prompt": "Tu {input} (credere) nelle sue parole.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her words.",
+        "audio": "270_Tu_hai_creduto_nelle_sue_parole.mp3"
+    },
+    {
+        "id": 271,
+        "prompt": "Io {input} (correre) per prendere il treno.",
+        "answer": "ho corso",
+        "translation": "I ran to catch the train.",
+        "audio": "271_Io_ho_corso_per_prendere_il_treno.mp3"
+    },
+    {
+        "id": 272,
+        "prompt": "Loro {input} (leggere) le condizioni del contratto.",
+        "answer": "hanno letto",
+        "translation": "They read the contract terms.",
+        "audio": "272_Loro_hanno_letto_le_condizioni_del_contratto.mp3"
+    },
+    {
+        "id": 273,
+        "prompt": "Noi {input} (prendere) un giorno di vacanza.",
+        "answer": "abbiamo preso",
+        "translation": "We took a day off.",
+        "audio": "273_Noi_abbiamo_preso_un_giorno_di_vacanza.mp3"
+    },
+    {
+        "id": 274,
+        "prompt": "Tu {input} (accendere) il computer per lavorare.",
+        "answer": "hai acceso",
+        "translation": "You turned on the computer to work.",
+        "audio": "274_Tu_hai_acceso_il_computer_per_lavorare.mp3"
+    },
+    {
+        "id": 275,
+        "prompt": "Io {input} (vendere) la mia macchina fotografica.",
+        "answer": "ho venduto",
+        "translation": "I sold my camera.",
+        "audio": "275_Io_ho_venduto_la_mia_macchina_fotografica.mp3"
+    },
+    {
+        "id": 276,
+        "prompt": "Loro {input} (chiudere) la porta dell'ufficio.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the office door.",
+        "audio": "276_Loro_hanno_chiuso_la_porta_dell_ufficio.mp3"
+    },
+    {
+        "id": 277,
+        "prompt": "Noi {input} (vivere) un'estate fantastica.",
+        "answer": "abbiamo vissuto",
+        "translation": "We had a fantastic summer.",
+        "audio": "277_Noi_abbiamo_vissuto_un_estate_fantastica.mp3"
+    },
+    {
+        "id": 278,
+        "prompt": "Tu {input} (discutere) della strategia con il team.",
+        "answer": "hai discusso",
+        "translation": "You discussed the strategy with the team.",
+        "audio": "278_Tu_hai_discusso_della_strategia_con_il_team.mp3"
+    },
+    {
+        "id": 279,
+        "prompt": "Io {input} (leggere) tutte le recensioni del libro.",
+        "answer": "ho letto",
+        "translation": "I read all the book reviews.",
+        "audio": "279_Io_ho_letto_tutte_le_recensioni_del_libro.mp3"
+    },
+    {
+        "id": 280,
+        "prompt": "Loro {input} (chiedere) di vedere il manager.",
+        "answer": "hanno chiesto",
+        "translation": "They asked to see the manager.",
+        "audio": "280_Loro_hanno_chiesto_di_vedere_il_manager.mp3"
+    },
+    {
+        "id": 281,
+        "prompt": "Noi {input} (mettere) le scarpe nuove.",
+        "answer": "abbiamo messo",
+        "translation": "We put on the new shoes.",
+        "audio": "281_Noi_abbiamo_messo_le_scarpe_nuove.mp3"
+    },
+    {
+        "id": 282,
+        "prompt": "Tu {input} (perdere) il tuo passaporto in viaggio.",
+        "answer": "hai perso",
+        "translation": "You lost your passport while traveling.",
+        "audio": "282_Tu_hai_perso_il_tuo_passaporto_in_viaggio.mp3"
+    },
+    {
+        "id": 283,
+        "prompt": "Io {input} (accendere) la macchina del caffè.",
+        "answer": "ho acceso",
+        "translation": "I turned on the coffee machine.",
+        "audio": "283_Io_ho_acceso_la_macchina_del_caffè.mp3"
+    },
+    {
+        "id": 284,
+        "prompt": "Loro {input} (scrivere) una canzone insieme.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a song together.",
+        "audio": "284_Loro_hanno_scritto_una_canzone_insieme.mp3"
+    },
+    {
+        "id": 285,
+        "prompt": "Noi {input} (vivere) in un piccolo villaggio.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in a small village.",
+        "audio": "285_Noi_abbiamo_vissuto_in_un_piccolo_villaggio.mp3"
+    },
+    {
+        "id": 286,
+        "prompt": "Tu {input} (credere) alle sue bugie.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her lies.",
+        "audio": "286_Tu_hai_creduto_alle_sue_bugie.mp3"
+    },
+    {
+        "id": 287,
+        "prompt": "Io {input} (correre) nel parco ogni giorno.",
+        "answer": "ho corso",
+        "translation": "I ran in the park every day.",
+        "audio": "287_Io_ho_corso_nel_parco_ogni_giorno.mp3"
+    },
+    {
+        "id": 288,
+        "prompt": "Loro {input} (leggere) il giornale di oggi.",
+        "answer": "hanno letto",
+        "translation": "They read today's newspaper.",
+        "audio": "288_Loro_hanno_letto_il_giornale_di_oggi.mp3"
+    },
+    {
+        "id": 289,
+        "prompt": "Noi {input} (prendere) un taxi per l'aeroporto.",
+        "answer": "abbiamo preso",
+        "translation": "We took a taxi to the airport.",
+        "audio": "289_Noi_abbiamo_preso_un_taxi_per_l_aeroporto.mp3"
+    },
+    {
+        "id": 290,
+        "prompt": "Tu {input} (accendere) la stufa per riscaldarti.",
+        "answer": "hai acceso",
+        "translation": "You lit the stove to warm yourself.",
+        "audio": "290_Tu_hai_acceso_la_stufa_per_riscaldarti.mp3"
+    },
+
+    {
+        "id": 291,
+        "prompt": "Io {input} (vendere) la mia moto.",
+        "answer": "ho venduto",
+        "translation": "I sold my motorcycle.",
+        "audio": "291_Io_ho_venduto_la_mia_moto.mp3"
+    },
+    {
+        "id": 292,
+        "prompt": "Loro {input} (chiudere) la finestra prima di uscire.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the window before leaving.",
+        "audio": "292_Loro_hanno_chiuso_la_finestra_prima_di_uscire.mp3"
+    },
+    {
+        "id": 293,
+        "prompt": "Noi {input} (vivere) una grande avventura.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a great adventure.",
+        "audio": "293_Noi_abbiamo_vissuto_una_grande_avventura.mp3"
+    },
+    {
+        "id": 294,
+        "prompt": "Tu {input} (discutere) di affari con il cliente.",
+        "answer": "hai discusso",
+        "translation": "You discussed business with the client.",
+        "audio": "294_Tu_hai_discusso_di_affari_con_il_cliente.mp3"
+    },
+    {
+        "id": 295,
+        "prompt": "Io {input} (leggere) un articolo interessante.",
+        "answer": "ho letto",
+        "translation": "I read an interesting article.",
+        "audio": "295_Io_ho_letto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 296,
+        "prompt": "Loro {input} (chiedere) il permesso di entrare.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for permission to enter.",
+        "audio": "296_Loro_hanno_chiesto_il_permesso_di_entrare.mp3"
+    },
+    {
+        "id": 297,
+        "prompt": "Noi {input} (mettere) il tappeto nuovo in salotto.",
+        "answer": "abbiamo messo",
+        "translation": "We put the new rug in the living room.",
+        "audio": "297_Noi_abbiamo_messo_il_tappeto_nuovo_in_salotto.mp3"
+    },
+    {
+        "id": 298,
+        "prompt": "Tu {input} (perdere) il tuo libro preferito.",
+        "answer": "hai perso",
+        "translation": "You lost your favorite book.",
+        "audio": "298_Tu_hai_perso_il_tuo_libro_preferito.mp3"
+    },
+    {
+        "id": 299,
+        "prompt": "Io {input} (accendere) la luce della cucina.",
+        "answer": "ho acceso",
+        "translation": "I turned on the kitchen light.",
+        "audio": "299_Io_ho_acceso_la_luce_della_cucina.mp3"
+    },
+    {
+        "id": 300,
+        "prompt": "Loro {input} (scrivere) una lettera di protesta.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a letter of protest.",
+        "audio": "300_Loro_hanno_scritto_una_lettera_di_protesta.mp3"
+    },
+    {
+        "id": 301,
+        "prompt": "Noi {input} (vivere) un periodo difficile.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived through a difficult period.",
+        "audio": "301_Noi_abbiamo_vissuto_un_periodo_difficile.mp3"
+    },
+    {
+        "id": 302,
+        "prompt": "Tu {input} (credere) al suo discorso.",
+        "answer": "hai creduto",
+        "translation": "You believed his speech.",
+        "audio": "302_Tu_hai_creduto_al_suo_discorso.mp3"
+    },
+    {
+        "id": 303,
+        "prompt": "Io {input} (correre) una gara di cinque chilometri.",
+        "answer": "ho corso",
+        "translation": "I ran a five-kilometer race.",
+        "audio": "303_Io_ho_corso_una_gara_di_cinque_chilometri.mp3"
+    },
+    {
+        "id": 304,
+        "prompt": "Loro {input} (leggere) il messaggio sul telefono.",
+        "answer": "hanno letto",
+        "translation": "They read the message on the phone.",
+        "audio": "304_Loro_hanno_letto_il_messaggio_sul_telefono.mp3"
+    },
+    {
+        "id": 305,
+        "prompt": "Noi {input} (prendere) un autobus turistico.",
+        "answer": "abbiamo preso",
+        "translation": "We took a tour bus.",
+        "audio": "305_Noi_abbiamo_preso_un_autobus_turistico.mp3"
+    },
+    {
+        "id": 306,
+        "prompt": "Tu {input} (accendere) le luci dell'albero.",
+        "answer": "hai acceso",
+        "translation": "You turned on the tree lights.",
+        "audio": "306_Tu_hai_acceso_le_luci_dell_albero.mp3"
+    },
+    {
+        "id": 307,
+        "prompt": "Io {input} (vendere) il mio orologio.",
+        "answer": "ho venduto",
+        "translation": "I sold my watch.",
+        "audio": "307_Io_ho_venduto_il_mio_orologio.mp3"
+    },
+    {
+        "id": 308,
+        "prompt": "Loro {input} (chiudere) il progetto con successo.",
+        "answer": "hanno chiuso",
+        "translation": "They successfully closed the project.",
+        "audio": "308_Loro_hanno_chiuso_il_progetto_con_successo.mp3"
+    },
+    {
+        "id": 309,
+        "prompt": "Noi {input} (vivere) un sogno meraviglioso.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a wonderful dream.",
+        "audio": "309_Noi_abbiamo_vissuto_un_sogno_meraviglioso.mp3"
+    },
+    {
+        "id": 310,
+        "prompt": "Tu {input} (discutere) di politica con il vicino.",
+        "answer": "hai discusso",
+        "translation": "You discussed politics with the neighbor.",
+        "audio": "310_Tu_hai_discusso_di_politica_con_il_vicino.mp3"
+    },
+    {
+        "id": 311,
+        "prompt": "Io {input} (leggere) il romanzo di un autore famoso.",
+        "answer": "ho letto",
+        "translation": "I read the novel by a famous author.",
+        "audio": "311_Io_ho_letto_il_romanzo_di_un_autore_famoso.mp3"
+    },
+    {
+        "id": 312,
+        "prompt": "Loro {input} (chiedere) informazioni sui corsi.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for information about the courses.",
+        "audio": "312_Loro_hanno_chiesto_informazioni_sui_corsi.mp3"
+    },
+    {
+        "id": 313,
+        "prompt": "Noi {input} (mettere) i mobili in garage.",
+        "answer": "abbiamo messo",
+        "translation": "We put the furniture in the garage.",
+        "audio": "313_Noi_abbiamo_messo_i_mobili_in_garage.mp3"
+    },
+    {
+        "id": 314,
+        "prompt": "Tu {input} (perdere) la coincidenza del volo.",
+        "answer": "hai perso",
+        "translation": "You missed the connecting flight.",
+        "audio": "314_Tu_hai_perso_la_coincidenza_del_volo.mp3"
+    },
+    {
+        "id": 315,
+        "prompt": "Io {input} (accendere) il camino per riscaldarmi.",
+        "answer": "ho acceso",
+        "translation": "I lit the fireplace to warm myself.",
+        "audio": "315_Io_ho_acceso_il_camino_per_riscaldarmi.mp3"
+    },
+    {
+        "id": 316,
+        "prompt": "Loro {input} (scrivere) un saggio su Dante.",
+        "answer": "hanno scritto",
+        "translation": "They wrote an essay on Dante.",
+        "audio": "316_Loro_hanno_scritto_un_saggio_su_Dante.mp3"
+    },
+    {
+        "id": 317,
+        "prompt": "Noi {input} (vivere) in una casa storica.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in a historic house.",
+        "audio": "317_Noi_abbiamo_vissuto_in_una_casa_storica.mp3"
+    },
+    {
+        "id": 318,
+        "prompt": "Tu {input} (credere) nella sua buona fede.",
+        "answer": "hai creduto",
+        "translation": "You believed in his/her good faith.",
+        "audio": "318_Tu_hai_creduto_nella_sua_buona_fede.mp3"
+    },
+    {
+        "id": 319,
+        "prompt": "Io {input} (correre) una maratona a New York.",
+        "answer": "ho corso",
+        "translation": "I ran a marathon in New York.",
+        "audio": "319_Io_ho_corso_una_maratona_a_New_York.mp3"
+    },
+    {
+        "id": 320,
+        "prompt": "Loro {input} (leggere) il documento legale.",
+        "answer": "hanno letto",
+        "translation": "They read the legal document.",
+        "audio": "320_Loro_hanno_letto_il_documento_legale.mp3"
+    },
+    {
+        "id": 321,
+        "prompt": "Noi {input} (prendere) una decisione importante.",
+        "answer": "abbiamo preso",
+        "translation": "We made an important decision.",
+        "audio": "321_Noi_abbiamo_preso_una_decisione_importante.mp3"
+    },
+    {
+        "id": 322,
+        "prompt": "Tu {input} (accendere) il riscaldamento centralizzato.",
+        "answer": "hai acceso",
+        "translation": "You turned on the central heating.",
+        "audio": "322_Tu_hai_acceso_il_riscaldamento_centralizzato.mp3"
+    },
+    {
+        "id": 323,
+        "prompt": "Io {input} (vendere) i miei vecchi dischi.",
+        "answer": "ho venduto",
+        "translation": "I sold my old records.",
+        "audio": "323_Io_ho_venduto_i_miei_vecchi_dischi.mp3"
+    },
+    {
+        "id": 324,
+        "prompt": "Loro {input} (chiudere) il negozio per sempre.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the store forever.",
+        "audio": "324_Loro_hanno_chiuso_il_negozio_per_sempre.mp3"
+    },
+    {
+        "id": 325,
+        "prompt": "Noi {input} (vivere) un momento indimenticabile.",
+        "answer": "abbiamo vissuto",
+        "translation": "We had an unforgettable moment.",
+        "audio": "325_Noi_abbiamo_vissuto_un_momento_indimenticabile.mp3"
+    },
+    {
+        "id": 326,
+        "prompt": "Tu {input} (discutere) di filosofia con gli amici.",
+        "answer": "hai discusso",
+        "translation": "You discussed philosophy with friends.",
+        "audio": "326_Tu_hai_discusso_di_filosofia_con_gli_amici.mp3"
+    },
+    {
+        "id": 327,
+        "prompt": "Io {input} (leggere) il rapporto sul clima.",
+        "answer": "ho letto",
+        "translation": "I read the climate report.",
+        "audio": "327_Io_ho_letto_il_rapporto_sul_clima.mp3"
+    },
+    {
+        "id": 328,
+        "prompt": "Loro {input} (chiedere) un preventivo per i lavori.",
+        "answer": "hanno chiesto",
+        "translation": "They asked for an estimate for the work.",
+        "audio": "328_Loro_hanno_chiesto_un_preventivo_per_i_lavori.mp3"
+    },
+    {
+        "id": 329,
+        "prompt": "Noi {input} (mettere) le valigie in macchina.",
+        "answer": "abbiamo messo",
+        "translation": "We put the suitcases in the car.",
+        "audio": "329_Noi_abbiamo_messo_le_valigie_in_macchina.mp3"
+    },
+    {
+        "id": 330,
+        "prompt": "Tu {input} (perdere) il tuo portafoglio ieri.",
+        "answer": "hai perso",
+        "translation": "You lost your wallet yesterday.",
+        "audio": "330_Tu_hai_perso_il_tuo_portafoglio_ieri.mp3"
+    },
+    {
+        "id": 331,
+        "prompt": "Io {input} (accendere) la radio per ascoltare le notizie.",
+        "answer": "ho acceso",
+        "translation": "I turned on the radio to listen to the news.",
+        "audio": "331_Io_ho_acceso_la_radio_per_ascoltare_le_notizie.mp3"
+    },
+    {
+        "id": 332,
+        "prompt": "Loro {input} (scrivere) una relazione dettagliata.",
+        "answer": "hanno scritto",
+        "translation": "They wrote a detailed report.",
+        "audio": "332_Loro_hanno_scritto_una_relazione_dettagliata.mp3"
+    },
+    {
+        "id": 333,
+        "prompt": "Noi {input} (vivere) una bella storia d'amore.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived a beautiful love story.",
+        "audio": "333_Noi_abbiamo_vissuto_una_bella_storia_d_amore.mp3"
+    },
+    {
+        "id": 334,
+        "prompt": "Tu {input} (credere) alla sua promessa.",
+        "answer": "hai creduto",
+        "translation": "You believed his/her promise.",
+        "audio": "334_Tu_hai_creduto_alla_sua_promessa.mp3"
+    },
+    {
+        "id": 335,
+        "prompt": "Io {input} (correre) una staffetta con i miei amici.",
+        "answer": "ho corso",
+        "translation": "I ran a relay race with my friends.",
+        "audio": "335_Io_ho_corso_una_staffetta_con_i_miei_amici.mp3"
+    },
+    {
+        "id": 336,
+        "prompt": "Loro {input} (leggere) tutte le istruzioni con attenzione.",
+        "answer": "hanno letto",
+        "translation": "They read all the instructions carefully.",
+        "audio": "336_Loro_hanno_letto_tutte_le_istruzioni_con_attenzione.mp3"
+    },
+    {
+        "id": 337,
+        "prompt": "Noi {input} (prendere) il treno per Napoli.",
+        "answer": "abbiamo preso",
+        "translation": "We took the train to Naples.",
+        "audio": "337_Noi_abbiamo_preso_il_treno_per_Napoli.mp3"
+    },
+    {
+        "id": 338,
+        "prompt": "Tu {input} (accendere) le luci della festa.",
+        "answer": "hai acceso",
+        "translation": "You turned on the party lights.",
+        "audio": "338_Tu_hai_acceso_le_luci_della_festa.mp3"
+    },
+    {
+        "id": 339,
+        "prompt": "Io {input} (vendere) la mia bicicletta.",
+        "answer": "ho venduto",
+        "translation": "I sold my bicycle.",
+        "audio": "339_Io_ho_venduto_la_mia_bicicletta.mp3"
+    },
+    {
+        "id": 340,
+        "prompt": "Loro {input} (chiudere) la questione in sospeso.",
+        "answer": "hanno chiuso",
+        "translation": "They closed the pending matter.",
+        "audio": "340_Loro_hanno_chiuso_la_questione_in_sospeso.mp3"
+    },
+
+    {
+        "id": 341,
+        "prompt": "Lui {input} (ricevere) una lettera importante.",
+        "answer": "ha ricevuto",
+        "translation": "He received an important letter.",
+        "audio": "341_Lui_ha_ricevuto_una_lettera_importante.mp3"
+    },
+    {
+        "id": 342,
+        "prompt": "Noi {input} (perdere) il treno.",
+        "answer": "abbiamo perso",
+        "translation": "We missed the train.",
+        "audio": "342_Noi_abbiamo_perso_il_treno.mp3"
+    },
+    {
+        "id": 343,
+        "prompt": "Io {input} (vedere) un bellissimo tramonto.",
+        "answer": "ho visto",
+        "translation": "I saw a beautiful sunset.",
+        "audio": "343_Io_ho_visto_un_bellissimo_tramonto.mp3"
+    },
+    {
+        "id": 344,
+        "prompt": "Lei {input} (credere) nelle sue capacita.",
+        "answer": "ha creduto",
+        "translation": "She believed in her abilities.",
+        "audio": "344_Lei_ha_creduto_nelle_sue_capacita.mp3"
+    },
+    {
+        "id": 345,
+        "prompt": "Voi {input} (rispondere) correttamente alla domanda.",
+        "answer": "avete risposto",
+        "translation": "You all answered the question correctly.",
+        "audio": "345_Voi_avete_risposto_correttamente_alla_domanda.mp3"
+    },
+    {
+        "id": 346,
+        "prompt": "Loro {input} (prendere) un taxi per l'aeroporto.",
+        "answer": "hanno preso",
+        "translation": "They took a taxi to the airport.",
+        "audio": "346_Loro_hanno_preso_un_taxi_per_l'aeroporto.mp3"
+    },
+    {
+        "id": 347,
+        "prompt": "Tu {input} (scrivere) un'email al professore.",
+        "answer": "hai scritto",
+        "translation": "You wrote an email to the professor.",
+        "audio": "347_Tu_hai_scritto_un'email_al_professore.mp3"
+    },
+    {
+        "id": 348,
+        "prompt": "Io {input} (vivere) in Italia per un anno.",
+        "answer": "ho vissuto",
+        "translation": "I lived in Italy for a year.",
+        "audio": "348_Io_ho_vissuto_in_Italia_per_un_anno.mp3"
+    },
+    {
+        "id": 349,
+        "prompt": "Noi {input} (mettere) i libri sul tavolo.",
+        "answer": "abbiamo messo",
+        "translation": "We put the books on the table.",
+        "audio": "349_Noi_abbiamo_messo_i_libri_sul_tavolo.mp3"
+    },
+    {
+        "id": 350,
+        "prompt": "Lui {input} (chiedere) aiuto a Maria.",
+        "answer": "ha chiesto",
+        "translation": "He asked Maria for help.",
+        "audio": "350_Lui_ha_chiesto_aiuto_a_Maria.mp3"
+    },
+    {
+        "id": 351,
+        "prompt": "Voi {input} (ricevere) una telefonata importante.",
+        "answer": "avete ricevuto",
+        "translation": "You all received an important phone call.",
+        "audio": "351_Voi_avete_ricevuto_una_telefonata_importante.mp3"
+    },
+    {
+        "id": 352,
+        "prompt": "Io {input} (prendere) un caffe questa mattina.",
+        "answer": "ho preso",
+        "translation": "I had a coffee this morning.",
+        "audio": "352_Io_ho_preso_un_caffe_questa_mattina.mp3"
+    },
+    {
+        "id": 353,
+        "prompt": "Lei {input} (credere) in lui fin dall'inizio.",
+        "answer": "ha creduto",
+        "translation": "She believed in him from the beginning.",
+        "audio": "353_Lei_ha_creduto_in_lui_fin_dall'inizio.mp3"
+    },
+    {
+        "id": 354,
+        "prompt": "Loro {input} (perdere) le chiavi di casa.",
+        "answer": "hanno perso",
+        "translation": "They lost the house keys.",
+        "audio": "354_Loro_hanno_perso_le_chiavi_di_casa.mp3"
+    },
+    {
+        "id": 355,
+        "prompt": "Tu {input} (vedere) quel film l'anno scorso.",
+        "answer": "hai visto",
+        "translation": "You saw that movie last year.",
+        "audio": "355_Tu_hai_visto_quel_film_l'anno_scorso.mp3"
+    },
+    {
+        "id": 356,
+        "prompt": "Io {input} (mettere) il libro nello zaino.",
+        "answer": "ho messo",
+        "translation": "I put the book in the backpack.",
+        "audio": "356_Io_ho_messo_il_libro_nello_zaino.mp3"
+    },
+    {
+        "id": 357,
+        "prompt": "Noi {input} (ricevere) una bella sorpresa.",
+        "answer": "abbiamo ricevuto",
+        "translation": "We received a nice surprise.",
+        "audio": "357_Noi_abbiamo_ricevuto_una_bella_sorpresa.mp3"
+    },
+    {
+        "id": 358,
+        "prompt": "Lui {input} (prendere) il treno delle otto.",
+        "answer": "ha preso",
+        "translation": "He took the eight o'clock train.",
+        "audio": "358_Lui_ha_preso_il_treno_delle_otto.mp3"
+    },
+    {
+        "id": 359,
+        "prompt": "Tu {input} (chiedere) il conto al cameriere.",
+        "answer": "hai chiesto",
+        "translation": "You asked the waiter for the bill.",
+        "audio": "359_Tu_hai_chiesto_il_conto_al_cameriere.mp3"
+    },
+    {
+        "id": 360,
+        "prompt": "Io {input} (vivere) a Milano per tre anni.",
+        "answer": "ho vissuto",
+        "translation": "I lived in Milan for three years.",
+        "audio": "360_Io_ho_vissuto_a_Milano_per_tre_anni.mp3"
+    },
+    {
+        "id": 361,
+        "prompt": "Lei {input} (scrivere) un libro interessante.",
+        "answer": "ha scritto",
+        "translation": "She wrote an interesting book.",
+        "audio": "361_Lei_ha_scritto_un_libro_interessante.mp3"
+    },
+    {
+        "id": 362,
+        "prompt": "Loro {input} (mettere) i piatti nella lavastoviglie.",
+        "answer": "hanno messo",
+        "translation": "They put the dishes in the dishwasher.",
+        "audio": "362_Loro_hanno_messo_i_piatti_nella_lavastoviglie.mp3"
+    },
+    {
+        "id": 363,
+        "prompt": "Voi {input} (ricevere) il pacco ieri.",
+        "answer": "avete ricevuto",
+        "translation": "You all received the package yesterday.",
+        "audio": "363_Voi_avete_ricevuto_il_pacco_ieri.mp3"
+    },
+    {
+        "id": 364,
+        "prompt": "Io {input} (vedere) un amico al parco.",
+        "answer": "ho visto",
+        "translation": "I saw a friend at the park.",
+        "audio": "364_Io_ho_visto_un_amico_al_parco.mp3"
+    },
+    {
+        "id": 365,
+        "prompt": "Tu {input} (credere) alle sue parole.",
+        "answer": "hai creduto",
+        "translation": "You believed his words.",
+        "audio": "365_Tu_hai_creduto_alle_sue_parole.mp3"
+    },
+    {
+        "id": 366,
+        "prompt": "Noi {input} (perdere) la strada.",
+        "answer": "abbiamo perso",
+        "translation": "We lost the way.",
+        "audio": "366_Noi_abbiamo_perso_la_strada.mp3"
+    },
+    {
+        "id": 367,
+        "prompt": "Lui {input} (vedere) un cane sulla strada.",
+        "answer": "ha visto",
+        "translation": "He saw a dog on the road.",
+        "audio": "367_Lui_ha_visto_un_cane_sulla_strada.mp3"
+    },
+    {
+        "id": 368,
+        "prompt": "Tu {input} (mettere) il cappotto nell'armadio.",
+        "answer": "hai messo",
+        "translation": "You put the coat in the closet.",
+        "audio": "368_Tu_hai_messo_il_cappotto_nell_armadio.mp3"
+    },
+    {
+        "id": 369,
+        "prompt": "Io {input} (scrivere) una poesia.",
+        "answer": "ho scritto",
+        "translation": "I wrote a poem.",
+        "audio": "369_Io_ho_scritto_una_poesia.mp3"
+    },
+    {
+        "id": 370,
+        "prompt": "Lei {input} (ricevere) un regalo.",
+        "answer": "ha ricevuto",
+        "translation": "She received a gift.",
+        "audio": "370_Lei_ha_ricevuto_un_regalo.mp3"
+    },
+    {
+        "id": 371,
+        "prompt": "Loro {input} (prendere) le sedie.",
+        "answer": "hanno preso",
+        "translation": "They took the chairs.",
+        "audio": "371_Loro_hanno_preso_le_sedie.mp3"
+    },
+    {
+        "id": 372,
+        "prompt": "Voi {input} (chiedere) il permesso.",
+        "answer": "avete chiesto",
+        "translation": "You all asked for permission.",
+        "audio": "372_Voi_avete_chiesto_il_permesso.mp3"
+    },
+    {
+        "id": 373,
+        "prompt": "Io {input} (vivere) un'esperienza indimenticabile.",
+        "answer": "ho vissuto",
+        "translation": "I lived an unforgettable experience.",
+        "audio": "373_Io_ho_vissuto_un'esperienza_indimenticabile.mp3"
+    },
+    {
+        "id": 374,
+        "prompt": "Tu {input} (ricevere) il biglietto.",
+        "answer": "hai ricevuto",
+        "translation": "You received the ticket.",
+        "audio": "374_Tu_hai_ricevuto_il_biglietto.mp3"
+    },
+    {
+        "id": 375,
+        "prompt": "Lei {input} (mettere) la torta in forno.",
+        "answer": "ha messo",
+        "translation": "She put the cake in the oven.",
+        "audio": "375_Lei_ha_messo_la_torta_in_forno.mp3"
+    },
+    {
+        "id": 376,
+        "prompt": "Lui {input} (perdere) la borsa.",
+        "answer": "ha perso",
+        "translation": "He lost the bag.",
+        "audio": "376_Lui_ha_perso_la_borsa.mp3"
+    },
+    {
+        "id": 377,
+        "prompt": "Noi {input} (vedere) la partita di calcio.",
+        "answer": "abbiamo visto",
+        "translation": "We watched the soccer match.",
+        "audio": "377_Noi_abbiamo_visto_la_partita_di_calcio.mp3"
+    },
+    {
+        "id": 378,
+        "prompt": "Voi {input} (credere) nella fortuna.",
+        "answer": "avete creduto",
+        "translation": "You all believed in luck.",
+        "audio": "378_Voi_avete_creduto_nella_fortuna.mp3"
+    },
+    {
+        "id": 379,
+        "prompt": "Io {input} (prendere) l'autobus per andare al lavoro.",
+        "answer": "ho preso",
+        "translation": "I took the bus to go to work.",
+        "audio": "379_Io_ho_preso_l'autobus_per_andare_al_lavoro.mp3"
+    },
+    {
+        "id": 380,
+        "prompt": "Tu {input} (chiedere) un consiglio a tuo padre.",
+        "answer": "hai chiesto",
+        "translation": "You asked your father for advice.",
+        "audio": "380_Tu_hai_chiesto_un_consiglio_a_tuo_padre.mp3"
+    },
+    {
+        "id": 381,
+        "prompt": "Loro {input} (vivere) insieme per dieci anni.",
+        "answer": "hanno vissuto",
+        "translation": "They lived together for ten years.",
+        "audio": "381_Loro_hanno_vissuto_insieme_per_dieci_anni.mp3"
+    },
+    {
+        "id": 382,
+        "prompt": "Io {input} (scrivere) una lettera di ringraziamento.",
+        "answer": "ho scritto",
+        "translation": "I wrote a thank-you letter.",
+        "audio": "382_Io_ho_scritto_una_lettera_di_ringraziamento.mp3"
+    },
+    {
+        "id": 383,
+        "prompt": "Noi {input} (mettere) i fiori sul tavolo.",
+        "answer": "abbiamo messo",
+        "translation": "We put the flowers on the table.",
+        "audio": "383_Noi_abbiamo_messo_i_fiori_sul_tavolo.mp3"
+    },
+    {
+        "id": 384,
+        "prompt": "Lei {input} (ricevere) molte congratulazioni.",
+        "answer": "ha ricevuto",
+        "translation": "She received many congratulations.",
+        "audio": "384_Lei_ha_ricevuto_molte_congratulazioni.mp3"
+    },
+    {
+        "id": 385,
+        "prompt": "Lui {input} (vedere) l'incidente sulla strada.",
+        "answer": "ha visto",
+        "translation": "He saw the accident on the road.",
+        "audio": "385_Lui_ha_visto_l'incidente_sulla_strada.mp3"
+    },
+    {
+        "id": 386,
+        "prompt": "Voi {input} (perdere) il portafoglio.",
+        "answer": "avete perso",
+        "translation": "You all lost the wallet.",
+        "audio": "386_Voi_avete_perso_il_portafoglio.mp3"
+    },
+    {
+        "id": 387,
+        "prompt": "Io {input} (credere) in te fin dall'inizio.",
+        "answer": "ho creduto",
+        "translation": "I believed in you from the beginning.",
+        "audio": "387_Io_ho_creduto_in_te_fin_dall'inizio.mp3"
+    },
+    {
+        "id": 388,
+        "prompt": "Tu {input} (prendere) il libro dalla libreria.",
+        "answer": "hai preso",
+        "translation": "You took the book from the library.",
+        "audio": "388_Tu_hai_preso_il_libro_dalla_libreria.mp3"
+    },
+    {
+        "id": 389,
+        "prompt": "Loro {input} (mettere) le valigie in macchina.",
+        "answer": "hanno messo",
+        "translation": "They put the suitcases in the car.",
+        "audio": "389_Loro_hanno_messo_le_valigie_in_macchina.mp3"
+    },
+    {
+        "id": 390,
+        "prompt": "Noi {input} (ricevere) molte lettere.",
+        "answer": "abbiamo ricevuto",
+        "translation": "We received many letters.",
+        "audio": "390_Noi_abbiamo_ricevuto_molte_lettere.mp3"
+    },
+    {
+        "id": 391,
+        "prompt": "Lui {input} (scrivere) un articolo interessante.",
+        "answer": "ha scritto",
+        "translation": "He wrote an interesting article.",
+        "audio": "391_Lui_ha_scritto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 392,
+        "prompt": "Tu {input} (vedere) una stella cadente.",
+        "answer": "hai visto",
+        "translation": "You saw a shooting star.",
+        "audio": "392_Tu_hai_visto_una_stella_cadente.mp3"
+    },
+    {
+        "id": 393,
+        "prompt": "Io {input} (perdere) il telefono.",
+        "answer": "ho perso",
+        "translation": "I lost the phone.",
+        "audio": "393_Io_ho_perso_il_telefono.mp3"
+    },
+    {
+        "id": 394,
+        "prompt": "Lei {input} (chiedere) un passaggio a un amico.",
+        "answer": "ha chiesto",
+        "translation": "She asked a friend for a ride.",
+        "audio": "394_Lei_ha_chiesto_un_passaggio_a_un_amico.mp3"
+    },
+    {
+        "id": 395,
+        "prompt": "Voi {input} (vivere) in campagna.",
+        "answer": "avete vissuto",
+        "translation": "You all lived in the countryside.",
+        "audio": "395_Voi_avete_vissuto_in_campagna.mp3"
+    },
+    {
+        "id": 396,
+        "prompt": "Loro {input} (ricevere) i documenti richiesti.",
+        "answer": "hanno ricevuto",
+        "translation": "They received the requested documents.",
+        "audio": "396_Loro_hanno_ricevuto_i_documenti_richiesti.mp3"
+    },
+    {
+        "id": 397,
+        "prompt": "Io {input} (vedere) una mostra d'arte.",
+        "answer": "ho visto",
+        "translation": "I saw an art exhibition.",
+        "audio": "397_Io_ho_visto_una_mostra_d'arte.mp3"
+    },
+    {
+        "id": 398,
+        "prompt": "Noi {input} (mettere) le scarpe nell'armadio.",
+        "answer": "abbiamo messo",
+        "translation": "We put the shoes in the closet.",
+        "audio": "398_Noi_abbiamo_messo_le_scarpe_nell_armadio.mp3"
+    },
+    {
+        "id": 399,
+        "prompt": "Tu {input} (credere) di essere in ritardo.",
+        "answer": "hai creduto",
+        "translation": "You believed you were late.",
+        "audio": "399_Tu_hai_creduto_di_essere_in_ritardo.mp3"
+    },
+    {
+        "id": 400,
+        "prompt": "Lui {input} (prendere) un giorno di ferie.",
+        "answer": "ha preso",
+        "translation": "He took a day off.",
+        "audio": "400_Lui_ha_preso_un_giorno_di_ferie.mp3"
+    },
+
+    {
+        "id": 401,
+        "prompt": "Loro {input} (vedere) un bel film.",
+        "answer": "hanno visto",
+        "translation": "They saw a good movie.",
+        "audio": "401_Loro_hanno_visto_un_bel_film.mp3"
+    },
+    {
+        "id": 402,
+        "prompt": "Io {input} (credere) nella sua innocenza.",
+        "answer": "ho creduto",
+        "translation": "I believed in his innocence.",
+        "audio": "402_Io_ho_creduto_nella_sua_innocenza.mp3"
+    },
+    {
+        "id": 403,
+        "prompt": "Noi {input} (scrivere) una lettera.",
+        "answer": "abbiamo scritto",
+        "translation": "We wrote a letter.",
+        "audio": "403_Noi_abbiamo_scritto_una_lettera.mp3"
+    },
+    {
+        "id": 404,
+        "prompt": "Tu {input} (leggere) il libro.",
+        "answer": "hai letto",
+        "translation": "You read the book.",
+        "audio": "404_Tu_hai_letto_il_libro.mp3"
+    },
+    {
+        "id": 405,
+        "prompt": "Lei {input} (ridere) alla battuta.",
+        "answer": "ha riso",
+        "translation": "She laughed at the joke.",
+        "audio": "405_Lei_ha_riso_alla_battuta.mp3"
+    },
+    {
+        "id": 406,
+        "prompt": "Voi {input} (prendere) il treno per Roma.",
+        "answer": "avete preso",
+        "translation": "You all took the train to Rome.",
+        "audio": "406_Voi_avete_preso_il_treno_per_Roma.mp3"
+    },
+    {
+        "id": 407,
+        "prompt": "Io {input} (correre) nel parco.",
+        "answer": "ho corso",
+        "translation": "I ran in the park.",
+        "audio": "407_Io_ho_corso_nel_parco.mp3"
+    },
+    {
+        "id": 408,
+        "prompt": "Noi {input} (vivere) in Italia per due anni.",
+        "answer": "abbiamo vissuto",
+        "translation": "We lived in Italy for two years.",
+        "audio": "408_Noi_abbiamo_vissuto_in_Italia_per_due_anni.mp3"
+    },
+    {
+        "id": 409,
+        "prompt": "Tu {input} (mettere) il libro sul tavolo.",
+        "answer": "hai messo",
+        "translation": "You put the book on the table.",
+        "audio": "409_Tu_hai_messo_il_libro_sul_tavolo.mp3"
+    },
+    {
+        "id": 410,
+        "prompt": "Lei {input} (chiudere) la porta.",
+        "answer": "ha chiuso",
+        "translation": "She closed the door.",
+        "audio": "410_Lei_ha_chiuso_la_porta.mp3"
+    },
+    {
+        "id": 411,
+        "prompt": "Loro {input} (perdere) le chiavi.",
+        "answer": "hanno perso",
+        "translation": "They lost the keys.",
+        "audio": "411_Loro_hanno_perso_le_chiavi.mp3"
+    },
+    {
+        "id": 412,
+        "prompt": "Io {input} (vendere) la macchina.",
+        "answer": "ho venduto",
+        "translation": "I sold the car.",
+        "audio": "412_Io_ho_venduto_la_macchina.mp3"
+    },
+    {
+        "id": 413,
+        "prompt": "Noi {input} (decidere) di partire presto.",
+        "answer": "abbiamo deciso",
+        "translation": "We decided to leave early.",
+        "audio": "413_Noi_abbiamo_deciso_di_partire_presto.mp3"
+    },
+    {
+        "id": 414,
+        "prompt": "Tu {input} (rispondere) alla domanda.",
+        "answer": "hai risposto",
+        "translation": "You answered the question.",
+        "audio": "414_Tu_hai_risposto_alla_domanda.mp3"
+    },
+    {
+        "id": 415,
+        "prompt": "Lei {input} (scendere) le scale.",
+        "answer": "è scesa",
+        "translation": "She went down the stairs.",
+        "audio": "415_Lei_è_scesa_le_scale.mp3"
+    },
+    {
+        "id": 416,
+        "prompt": "Voi {input} (perdere) la partita.",
+        "answer": "avete perso",
+        "translation": "You all lost the match.",
+        "audio": "416_Voi_avete_perso_la_partita.mp3"
+    },
+    {
+        "id": 417,
+        "prompt": "Io {input} (rompere) il bicchiere.",
+        "answer": "ho rotto",
+        "translation": "I broke the glass.",
+        "audio": "417_Io_ho_rotto_il_bicchiere.mp3"
+    },
+    {
+        "id": 418,
+        "prompt": "Noi {input} (scegliere) il ristorante.",
+        "answer": "abbiamo scelto",
+        "translation": "We chose the restaurant.",
+        "audio": "418_Noi_abbiamo_scelto_il_ristorante.mp3"
+    },
+    {
+        "id": 419,
+        "prompt": "Tu {input} (aprire) la finestra.",
+        "answer": "hai aperto",
+        "translation": "You opened the window.",
+        "audio": "419_Tu_hai_aperto_la_finestra.mp3"
+    },
+    {
+        "id": 420,
+        "prompt": "Lei {input} (chiedere) aiuto.",
+        "answer": "ha chiesto",
+        "translation": "She asked for help.",
+        "audio": "420_Lei_ha_chiesto_aiuto.mp3"
+    },
+    {
+        "id": 421,
+        "prompt": "Loro {input} (vivere) una bella esperienza.",
+        "answer": "hanno vissuto",
+        "translation": "They lived a beautiful experience.",
+        "audio": "421_Loro_hanno_vissuto_una_bella_esperienza.mp3"
+    },
+    {
+        "id": 422,
+        "prompt": "Io {input} (nascondere) il regalo.",
+        "answer": "ho nascosto",
+        "translation": "I hid the gift.",
+        "audio": "422_Io_ho_nascosto_il_regalo.mp3"
+    },
+    {
+        "id": 423,
+        "prompt": "Noi {input} (spendere) troppo denaro.",
+        "answer": "abbiamo speso",
+        "translation": "We spent too much money.",
+        "audio": "423_Noi_abbiamo_speso_troppo_denaro.mp3"
+    },
+    {
+        "id": 424,
+        "prompt": "Tu {input} (accendere) la luce.",
+        "answer": "hai acceso",
+        "translation": "You turned on the light.",
+        "audio": "424_Tu_hai_acceso_la_luce.mp3"
+    },
+    {
+        "id": 425,
+        "prompt": "Lei {input} (decidere) di venire.",
+        "answer": "ha deciso",
+        "translation": "She decided to come.",
+        "audio": "425_Lei_ha_deciso_di_venire.mp3"
+    },
+    {
+        "id": 426,
+        "prompt": "Voi {input} (bere) il caffe.",
+        "answer": "avete bevuto",
+        "translation": "You all drank the coffee.",
+        "audio": "426_Voi_avete_bevuto_il_caffe.mp3"
+    },
+    {
+        "id": 427,
+        "prompt": "Io {input} (scrivere) un articolo.",
+        "answer": "ho scritto",
+        "translation": "I wrote an article.",
+        "audio": "427_Io_ho_scritto_un_articolo.mp3"
+    },
+    {
+        "id": 428,
+        "prompt": "Noi {input} (conoscere) una nuova persona.",
+        "answer": "abbiamo conosciuto",
+        "translation": "We met a new person.",
+        "audio": "428_Noi_abbiamo_conosciuto_una_nuova_persona.mp3"
+    },
+    {
+        "id": 429,
+        "prompt": "Tu {input} (vedere) il mare.",
+        "answer": "hai visto",
+        "translation": "You saw the sea.",
+        "audio": "429_Tu_hai_visto_il_mare.mp3"
+    },
+    {
+        "id": 430,
+        "prompt": "Lei {input} (piangere) per la tristezza.",
+        "answer": "ha pianto",
+        "translation": "She cried out of sadness.",
+        "audio": "430_Lei_ha_pianto_per_la_tristezza.mp3"
+    },
+    {
+        "id": 431,
+        "prompt": "Loro {input} (promettere) di aiutare.",
+        "answer": "hanno promesso",
+        "translation": "They promised to help.",
+        "audio": "431_Loro_hanno_promesso_di_aiutare.mp3"
+    },
+    {
+        "id": 432,
+        "prompt": "Io {input} (chiudere) la finestra.",
+        "answer": "ho chiuso",
+        "translation": "I closed the window.",
+        "audio": "432_Io_ho_chiuso_la_finestra.mp3"
+    },
+    {
+        "id": 433,
+        "prompt": "Noi {input} (discutere) a lungo.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed for a long time.",
+        "audio": "433_Noi_abbiamo_discusso_a_lungo.mp3"
+    },
+    {
+        "id": 434,
+        "prompt": "Tu {input} (permettere) l'entrata.",
+        "answer": "hai permesso",
+        "translation": "You allowed the entrance.",
+        "audio": "434_Tu_hai_permesso_l_entrata.mp3"
+    },
+    {
+        "id": 435,
+        "prompt": "Lei {input} (cadere) dalla sedia.",
+        "answer": "è caduta",
+        "translation": "She fell from the chair.",
+        "audio": "435_Lei_è_caduta_dalla_sedia.mp3"
+    },
+    {
+        "id": 436,
+        "prompt": "Voi {input} (correre) nella maratona.",
+        "answer": "avete corso",
+        "translation": "You all ran in the marathon.",
+        "audio": "436_Voi_avete_corso_nella_maratona.mp3"
+    },
+    {
+        "id": 437,
+        "prompt": "Io {input} (ricevere) un regalo.",
+        "answer": "ho ricevuto",
+        "translation": "I received a gift.",
+        "audio": "437_Io_ho_ricevuto_un_regalo.mp3"
+    },
+    {
+        "id": 438,
+        "prompt": "Noi {input} (correre) velocemente.",
+        "answer": "abbiamo corso",
+        "translation": "We ran quickly.",
+        "audio": "438_Noi_abbiamo_corso_velocemente.mp3"
+    },
+    {
+        "id": 439,
+        "prompt": "Tu {input} (perdere) il treno.",
+        "answer": "hai perso",
+        "translation": "You missed the train.",
+        "audio": "439_Tu_hai_perso_il_treno.mp3"
+    },
+    {
+        "id": 440,
+        "prompt": "Lei {input} (credere) alle sue parole.",
+        "answer": "ha creduto",
+        "translation": "She believed his words.",
+        "audio": "440_Lei_ha_creduto_alle_sue_parole.mp3"
+    },
+    {
+        "id": 441,
+        "prompt": "Loro {input} (conoscere) la verita.",
+        "answer": "hanno conosciuto",
+        "translation": "They knew the truth.",
+        "audio": "441_Loro_hanno_conosciuto_la_verita.mp3"
+    },
+    {
+        "id": 442,
+        "prompt": "Io {input} (decidere) di restare.",
+        "answer": "ho deciso",
+        "translation": "I decided to stay.",
+        "audio": "442_Io_ho_deciso_di_restare.mp3"
+    },
+    {
+        "id": 443,
+        "prompt": "Noi {input} (vendere) la casa.",
+        "answer": "abbiamo venduto",
+        "translation": "We sold the house.",
+        "audio": "443_Noi_abbiamo_venduto_la_casa.mp3"
+    },
+    {
+        "id": 444,
+        "prompt": "Tu {input} (rompere) il computer.",
+        "answer": "hai rotto",
+        "translation": "You broke the computer.",
+        "audio": "444_Tu_hai_rotto_il_computer.mp3"
+    },
+    {
+        "id": 445,
+        "prompt": "Lei {input} (piangere) di gioia.",
+        "answer": "ha pianto",
+        "translation": "She cried out of joy.",
+        "audio": "445_Lei_ha_pianto_di_gioia.mp3"
+    },
+    {
+        "id": 446,
+        "prompt": "Loro {input} (perdere) la partita.",
+        "answer": "hanno perso",
+        "translation": "They lost the game.",
+        "audio": "446_Loro_hanno_perso_la_partita.mp3"
+    },
+    {
+        "id": 447,
+        "prompt": "Io {input} (mettere) le chiavi nel cassetto.",
+        "answer": "ho messo",
+        "translation": "I put the keys in the drawer.",
+        "audio": "447_Io_ho_messo_le_chiavi_nel_cassetto.mp3"
+    },
+    {
+        "id": 448,
+        "prompt": "Noi {input} (prendere) un taxi.",
+        "answer": "abbiamo preso",
+        "translation": "We took a taxi.",
+        "audio": "448_Noi_abbiamo_preso_un_taxi.mp3"
+    },
+    {
+        "id": 449,
+        "prompt": "Tu {input} (vivere) in una casa grande.",
+        "answer": "hai vissuto",
+        "translation": "You lived in a big house.",
+        "audio": "449_Tu_hai_vissuto_in_una_casa_grande.mp3"
+    },
+    {
+        "id": 450,
+        "prompt": "Lei {input} (chiedere) un favore.",
+        "answer": "ha chiesto",
+        "translation": "She asked for a favor.",
+        "audio": "450_Lei_ha_chiesto_un_favore.mp3"
+    },
+    {
+        "id": 451,
+        "prompt": "Io {input} (vendere) la mia bicicletta.",
+        "answer": "ho venduto",
+        "translation": "I sold my bicycle.",
+        "audio": "451_Io_ho_venduto_la_mia_bicicletta.mp3"
+    },
+    {
+        "id": 452,
+        "prompt": "Noi {input} (prendere) un taxi per andare a casa.",
+        "answer": "abbiamo preso",
+        "translation": "We took a taxi to go home.",
+        "audio": "452_Noi_abbiamo_preso_un_taxi_per_andare_a_casa.mp3"
+    },
+    {
+        "id": 453,
+        "prompt": "Loro {input} (vedere) un arcobaleno dopo la pioggia.",
+        "answer": "hanno visto",
+        "translation": "They saw a rainbow after the rain.",
+        "audio": "453_Loro_hanno_visto_un_arcobaleno_dopo_la_pioggia.mp3"
+    },
+    {
+        "id": 454,
+        "prompt": "Tu {input} (rispondere) alla mia email.",
+        "answer": "hai risposto",
+        "translation": "You answered my email.",
+        "audio": "454_Tu_hai_risposto_alla_mia_email.mp3"
+    },
+    {
+        "id": 455,
+        "prompt": "Lei {input} (scrivere) una poesia bellissima.",
+        "answer": "ha scritto",
+        "translation": "She wrote a beautiful poem.",
+        "audio": "455_Lei_ha_scritto_una_poesia_bellissima.mp3"
+    },
+    {
+        "id": 456,
+        "prompt": "Io {input} (perdere) il mio portafoglio.",
+        "answer": "ho perso",
+        "translation": "I lost my wallet.",
+        "audio": "456_Io_ho_perso_il_mio_portafoglio.mp3"
+    },
+    {
+        "id": 457,
+        "prompt": "Noi {input} (ricevere) un invito per la festa.",
+        "answer": "abbiamo ricevuto",
+        "translation": "We received an invitation to the party.",
+        "audio": "457_Noi_abbiamo_ricevuto_un_invito_per_la_festa.mp3"
+    },
+    {
+        "id": 458,
+        "prompt": "Loro {input} (decidere) di fare una passeggiata.",
+        "answer": "hanno deciso",
+        "translation": "They decided to go for a walk.",
+        "audio": "458_Loro_hanno_deciso_di_fare_una_passeggiata.mp3"
+    },
+    {
+        "id": 459,
+        "prompt": "Tu {input} (leggere) il giornale questa mattina.",
+        "answer": "hai letto",
+        "translation": "You read the newspaper this morning.",
+        "audio": "459_Tu_hai_letto_il_giornale_questa_mattina.mp3"
+    },
+    {
+        "id": 460,
+        "prompt": "Io {input} (aprire) il negozio alle otto.",
+        "answer": "ho aperto",
+        "translation": "I opened the shop at eight.",
+        "audio": "460_Io_ho_aperto_il_negozio_alle_otto.mp3"
+    },
+    {
+        "id": 461,
+        "prompt": "Lui {input} (mettere) i piatti nel lavandino.",
+        "answer": "ha messo",
+        "translation": "He put the dishes in the sink.",
+        "audio": "461_Lui_ha_messo_i_piatti_nel_lavandino.mp3"
+    },
+    {
+        "id": 462,
+        "prompt": "Noi {input} (scendere) alla fermata sbagliata.",
+        "answer": "siamo scesi",
+        "translation": "We got off at the wrong stop.",
+        "audio": "462_Noi_siamo_scesi_alla_fermata_sbagliata.mp3"
+    },
+    {
+        "id": 463,
+        "prompt": "Loro {input} (prendere) un gelato.",
+        "answer": "hanno preso",
+        "translation": "They got an ice cream.",
+        "audio": "463_Loro_hanno_preso_un_gelato.mp3"
+    },
+    {
+        "id": 464,
+        "prompt": "Tu {input} (correre) nel parco ieri.",
+        "answer": "hai corso",
+        "translation": "You ran in the park yesterday.",
+        "audio": "464_Tu_hai_corso_nel_parco_ieri.mp3"
+    },
+    {
+        "id": 465,
+        "prompt": "Io {input} (vedere) un amico al supermercato.",
+        "answer": "ho visto",
+        "translation": "I saw a friend at the supermarket.",
+        "audio": "465_Io_ho_visto_un_amico_al_supermercato.mp3"
+    },
+    {
+        "id": 466,
+        "prompt": "Lei {input} (chiedere) un consiglio.",
+        "answer": "ha chiesto",
+        "translation": "She asked for advice.",
+        "audio": "466_Lei_ha_chiesto_un_consiglio.mp3"
+    },
+    {
+        "id": 467,
+        "prompt": "Noi {input} (perdere) il treno.",
+        "answer": "abbiamo perso",
+        "translation": "We missed the train.",
+        "audio": "467_Noi_abbiamo_perso_il_treno.mp3"
+    },
+    {
+        "id": 468,
+        "prompt": "Loro {input} (leggere) tutti i libri della biblioteca.",
+        "answer": "hanno letto",
+        "translation": "They read all the books in the library.",
+        "audio": "468_Loro_hanno_letto_tutti_i_libri_della_biblioteca.mp3"
+    },
+    {
+        "id": 469,
+        "prompt": "Io {input} (scoprire) un nuovo hobby.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a new hobby.",
+        "audio": "469_Io_ho_scoperto_un_nuovo_hobby.mp3"
+    },
+    {
+        "id": 470,
+        "prompt": "Tu {input} (vivere) in una casa grande.",
+        "answer": "hai vissuto",
+        "translation": "You lived in a big house.",
+        "audio": "470_Tu_hai_vissuto_in_una_casa_grande.mp3"
+    },
+    {
+        "id": 471,
+        "prompt": "Lui {input} (scrivere) un articolo interessante.",
+        "answer": "ha scritto",
+        "translation": "He wrote an interesting article.",
+        "audio": "471_Lui_ha_scritto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 472,
+        "prompt": "Noi {input} (prendere) il sole in spiaggia.",
+        "answer": "abbiamo preso",
+        "translation": "We sunbathed on the beach.",
+        "audio": "472_Noi_abbiamo_preso_il_sole_in_spiaggia.mp3"
+    },
+    {
+        "id": 473,
+        "prompt": "Loro {input} (vedere) una stella cadente.",
+        "answer": "hanno visto",
+        "translation": "They saw a shooting star.",
+        "audio": "473_Loro_hanno_visto_una_stella_cadente.mp3"
+    },
+    {
+        "id": 474,
+        "prompt": "Io {input} (aprire) la porta di casa.",
+        "answer": "ho aperto",
+        "translation": "I opened the front door.",
+        "audio": "474_Io_ho_aperto_la_porta_di_casa.mp3"
+    },
+    {
+        "id": 475,
+        "prompt": "Tu {input} (ricevere) una lettera dalla nonna.",
+        "answer": "hai ricevuto",
+        "translation": "You received a letter from your grandmother.",
+        "audio": "475_Tu_hai_ricevuto_una_lettera_dalla_nonna.mp3"
+    },
+    {
+        "id": 476,
+        "prompt": "Lui {input} (scendere) dal treno a Firenze.",
+        "answer": "è sceso",
+        "translation": "He got off the train in Florence.",
+        "audio": "476_Lui_è_sceso_dal_treno_a_Firenze.mp3"
+    },
+    {
+        "id": 477,
+        "prompt": "Noi {input} (mettere) i bagagli nel bagagliaio.",
+        "answer": "abbiamo messo",
+        "translation": "We put the luggage in the trunk.",
+        "audio": "477_Noi_abbiamo_messo_i_bagagli_nel_bagagliaio.mp3"
+    },
+    {
+        "id": 478,
+        "prompt": "Loro {input} (decidere) di andare al cinema.",
+        "answer": "hanno deciso",
+        "translation": "They decided to go to the cinema.",
+        "audio": "478_Loro_hanno_deciso_di_andare_al_cinema.mp3"
+    },
+    {
+        "id": 479,
+        "prompt": "Io {input} (risolvere) un problema complicato.",
+        "answer": "ho risolto",
+        "translation": "I solved a complicated problem.",
+        "audio": "479_Io_ho_risolto_un_problema_complicato.mp3"
+    },
+    {
+        "id": 480,
+        "prompt": "Tu {input} (correre) una maratona.",
+        "answer": "hai corso",
+        "translation": "You ran a marathon.",
+        "audio": "480_Tu_hai_corso_una_maratona.mp3"
+    },
+    {
+        "id": 481,
+        "prompt": "Lui {input} (prendere) un giorno di ferie.",
+        "answer": "ha preso",
+        "translation": "He took a day off.",
+        "audio": "481_Lui_ha_preso_un_giorno_di_ferie.mp3"
+    },
+    {
+        "id": 482,
+        "prompt": "Noi {input} (scrivere) una relazione.",
+        "answer": "abbiamo scritto",
+        "translation": "We wrote a report.",
+        "audio": "482_Noi_abbiamo_scritto_una_relazione.mp3"
+    },
+    {
+        "id": 483,
+        "prompt": "Loro {input} (vivere) un'avventura incredibile.",
+        "answer": "hanno vissuto",
+        "translation": "They lived an incredible adventure.",
+        "audio": "483_Loro_hanno_vissuto_un_avventura_incredibile.mp3"
+    },
+    {
+        "id": 484,
+        "prompt": "Io {input} (scoprire) un nuovo ristorante.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a new restaurant.",
+        "audio": "484_Io_ho_scoperto_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 485,
+        "prompt": "Tu {input} (ricevere) un regalo di compleanno.",
+        "answer": "hai ricevuto",
+        "translation": "You received a birthday present.",
+        "audio": "485_Tu_hai_ricevuto_un_regalo_di_compleanno.mp3"
+    },
+    {
+        "id": 486,
+        "prompt": "Lui {input} (aprire) una finestra per far entrare aria fresca.",
+        "answer": "ha aperto",
+        "translation": "He opened a window to let in fresh air.",
+        "audio": "486_Lui_ha_aperto_una_finestra_per_far_entrare_aria_fresca.mp3"
+    },
+    {
+        "id": 487,
+        "prompt": "Noi {input} (perdere) il nostro cane.",
+        "answer": "abbiamo perso",
+        "translation": "We lost our dog.",
+        "audio": "487_Noi_abbiamo_perso_il_nostro_cane.mp3"
+    },
+    {
+        "id": 488,
+        "prompt": "Loro {input} (decidere) di fare un viaggio.",
+        "answer": "hanno deciso",
+        "translation": "They decided to take a trip.",
+        "audio": "488_Loro_hanno_deciso_di_fare_un_viaggio.mp3"
+    },
+    {
+        "id": 489,
+        "prompt": "Io {input} (leggere) un articolo interessante.",
+        "answer": "ho letto",
+        "translation": "I read an interesting article.",
+        "audio": "489_Io_ho_letto_un_articolo_interessante.mp3"
+    },
+    {
+        "id": 490,
+        "prompt": "Tu {input} (rispondere) al telefono subito.",
+        "answer": "hai risposto",
+        "translation": "You answered the phone immediately.",
+        "audio": "490_Tu_hai_risposto_al_telefono_subito.mp3"
+    },
+    {
+        "id": 491,
+        "prompt": "Lui {input} (mettere) la giacca.",
+        "answer": "ha messo",
+        "translation": "He put on the jacket.",
+        "audio": "491_Lui_ha_messo_la_giacca.mp3"
+    },
+    {
+        "id": 492,
+        "prompt": "Noi {input} (correre) alla fermata dell'autobus.",
+        "answer": "abbiamo corso",
+        "translation": "We ran to the bus stop.",
+        "audio": "492_Noi_abbiamo_corso_alla_fermata_dell_autobus.mp3"
+    },
+    {
+        "id": 493,
+        "prompt": "Loro {input} (vedere) un concerto dal vivo.",
+        "answer": "hanno visto",
+        "translation": "They saw a live concert.",
+        "audio": "493_Loro_hanno_visto_un_concerto_dal_vivo.mp3"
+    },
+    {
+        "id": 494,
+        "prompt": "Io {input} (scendere) dall'autobus.",
+        "answer": "sono sceso",
+        "translation": "I got off the bus.",
+        "audio": "494_Io_sono_sceso_dall_autobus.mp3"
+    },
+    {
+        "id": 495,
+        "prompt": "Tu {input} (aprire) una scatola di cioccolatini.",
+        "answer": "hai aperto",
+        "translation": "You opened a box of chocolates.",
+        "audio": "495_Tu_hai_aperto_una_scatola_di_cioccolatini.mp3"
+    },
+    {
+        "id": 496,
+        "prompt": "Lui {input} (decidere) di studiare all'estero.",
+        "answer": "ha deciso",
+        "translation": "He decided to study abroad.",
+        "audio": "496_Lui_ha_deciso_di_studiare_all_estero.mp3"
+    },
+    {
+        "id": 497,
+        "prompt": "Noi {input} (perdere) la partita.",
+        "answer": "abbiamo perso",
+        "translation": "We lost the game.",
+        "audio": "497_Noi_abbiamo_perso_la_partita.mp3"
+    },
+    {
+        "id": 498,
+        "prompt": "Loro {input} (mettere) i libri sugli scaffali.",
+        "answer": "hanno messo",
+        "translation": "They put the books on the shelves.",
+        "audio": "498_Loro_hanno_messo_i_libri_sugli_scaffali.mp3"
+    },
+    {
+        "id": 499,
+        "prompt": "Io {input} (rispondere) a tutte le domande.",
+        "answer": "ho risposto",
+        "translation": "I answered all the questions.",
+        "audio": "499_Io_ho_risposto_a_tutte_le_domande.mp3"
+    },
+    {
+        "id": 500,
+        "prompt": "Tu {input} (vivere) in Germania per tre anni.",
+        "answer": "hai vissuto",
+        "translation": "You lived in Germany for three years.",
+        "audio": "500_Tu_hai_vissuto_in_Germania_per_tre_anni.mp3"
+    }
+]
+
+
+
